@@ -61,12 +61,14 @@ with open("medication.csv", newline="", encoding="utf-8") as f:
     individual_med_dict = sorted(individual_med_dict.items(), key=lambda item: item[1])
 
 """ Question 2 answers print"""
-print("med freq dict", med_freq_dict[:10])
-print("med category freq dict", med_category_freq_dict[:10])
+print("\n")
+print("2. med freq dict", med_freq_dict[:10])
+print("2. med category freq dict", med_category_freq_dict[:10])
 
 """ Question 3 and 4 answers print"""
-print("individual_with_greatest_number_of_medication_types: ", individual_med_type_dict[:10])
-print("individual_with_least_number_of_medication_types", individual_med_type_dict[-10:])
+print("3. individual_with_greatest_number_of_medication_types: ", individual_med_type_dict[:10])
+print("4. individual_with_least_number_of_medication_types", individual_med_type_dict[-10:])
 
 """ Question 5 answers print"""
-print("individual_with_least_number_of_medication_types: ", individual_med_dict[:10])
+print("5. individual_with_least_number_of_medication_types: ", individual_med_dict[:10])
+print("\n")
