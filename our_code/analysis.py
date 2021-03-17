@@ -37,8 +37,12 @@ with open("medication.csv", newline="", encoding="utf-8") as f:
         if row[0] not in individual_med_type_dict:
             individual_med_type_dict[row[0]] = []
         if row[7] not in individual_med_type_dict[row[0]]: individual_med_type_dict[row[0]] += [row[7]]
+        if row[8] not in individual_med_type_dict[row[0]]: individual_med_type_dict[row[0]] += [row[8]]
 
-        """ Question 5 """
+        """ Question 5 code"""
+        if row[0] not in individual_med_dict:
+            individual_med_dict[row[0]] = []
+        if row[6] not in individual_med_dict[row[0]]: individual_med_dict[row[0]] += [row[6]]
 
     """ Question 2 dictionaries sort """
     med_freq_dict = sorted(med_freq_dict.items(), key=lambda item: item[1], reverse=True)
@@ -50,10 +54,19 @@ with open("medication.csv", newline="", encoding="utf-8") as f:
         individual_med_type_dict[k]=len(v)
     individual_med_type_dict = sorted(individual_med_type_dict.items(), key=lambda item: item[1], reverse=True)
 
-    """ Question 2 answers print"""
-    print("med freq dict", med_freq_dict[:10])
-    print("med category freq dict", med_category_freq_dict[:10])
+    """ Question 5 dictionaries sort """
+    for k, v in individual_med_dict.items():
+        #replace list with the count
+        individual_med_dict[k]=len(v)
+    individual_med_dict = sorted(individual_med_dict.items(), key=lambda item: item[1])
 
-    """ Question 3 and 4 answers print"""
-    print("individual_with_greatest_number_of_medication_types: ", individual_med_type_dict[:10])
-    print("individual_with_least_number_of_medication_types", individual_med_type_dict[-10:])
+""" Question 2 answers print"""
+print("med freq dict", med_freq_dict[:10])
+print("med category freq dict", med_category_freq_dict[:10])
+
+""" Question 3 and 4 answers print"""
+print("individual_with_greatest_number_of_medication_types: ", individual_med_type_dict[:10])
+print("individual_with_least_number_of_medication_types", individual_med_type_dict[-10:])
+
+""" Question 5 answers print"""
+print("individual_with_least_number_of_medication_types: ", individual_med_dict[:10])
