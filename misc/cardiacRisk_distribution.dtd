@@ -46,4 +46,3 @@
 <!ATTLIST MEDICATION type2 ( ACE inhibitor | amylin | anti diabetes | ARB | aspirin | beta blocker | calcium channel blocker | diuretic | DPP4 inhibitors | ezetimibe | fibrate | GLP1 agonists | insulin | Meglitinides | metformin | niacin | nitrate | obesity | statin | sulfonylureas | thiazolidinedione | thienopyridine  ) >
 <!ATTLIST MEDICATION time ( before DCT | during DCT | after DCT | continuing ) >
 <!ATTLIST MEDICATION comment CDATA >
-
