@@ -1,5 +1,5 @@
 import csv
-import xml_to_csv, Question2, Question3and4, Question5, SortModule, PrintModule
+import xml_to_csv, Question2, Question3and4, Question5, SortModule, PrintModule, CsvModule
 
 """ Question 2 dictionaries"""
 med_freq_dict = {}
@@ -45,6 +45,8 @@ def main():
     # a[0] = med_freq_dict, a[1] = med_category_freq_dict, a[2] = individual_med_type_dict, a[3] = individual_med_dict
     PrintModule.printFunction(answers[0], answers[1], answers[2], answers[3])
 
+    """ store the answers to csv """
+    CsvModule.csvFunction(answers[0], answers[1], answers[2], answers[3])
 
 if __name__ == "__main__":
     main() 
