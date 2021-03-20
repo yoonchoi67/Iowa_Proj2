@@ -1,8 +1,5 @@
 import csv
 
-
-
-
 """ Question 2 dictionaries"""
 med_freq_dict = {}
 med_category_freq_dict = {}

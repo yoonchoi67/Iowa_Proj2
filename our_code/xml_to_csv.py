@@ -35,5 +35,7 @@ def extract(f):
             each.get('comment')
             ]
     
-[extract(f) for f in files]
-med_df.to_csv("medication.csv", index=False)
+""" Create a medication.csv if not exists already """
+if not os.path.exists('medication.csv'):
+    [extract(f) for f in files]
+    med_df.to_csv("medication.csv", index=False)
