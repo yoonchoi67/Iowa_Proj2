@@ -15,5 +15,5 @@ def sortEverything(med_freq_dict, med_category_freq_dict, individual_med_type_di
         #replace list with the count
         individual_med_dict[k]=len(v)
     individual_med_dict = sorted(individual_med_dict.items(), key=lambda item: item[1])
-    print("SORT", type(med_freq_dict))
+
     return [med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_dict]
