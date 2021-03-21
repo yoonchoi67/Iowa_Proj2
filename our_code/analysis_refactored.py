@@ -6,6 +6,7 @@ med_freq_dict = {}
 med_category_freq_dict = {}
 """ Question 3 and 4 dictionaries"""
 individual_med_type_dict = {}
+individual_med_type_count_dict = {}
 """ Question 5 dictionaries"""
 individual_med_dict = {}
 
