@@ -2,7 +2,7 @@ med_category,frequency
 beta blocker,9782
 statin,8972
 aspirin,8736
-ACE inhibitor,6805
+ace inhibitor,6805
 insulin,5227
 metformin,3909
 calcium channel blocker,3883
@@ -10,10 +10,10 @@ sulfonylureas,3213
 nitrate,2743
 diuretic,2459
 thienopyridine,2383
-ARB,1952
+arb,1952
 thiazolidinedione,764
 fibrate,628
 ezetimibe,290
 niacin,160
-DPP4 inhibitors,37
+dpp4 inhibitors,37
 anti diabetes,12

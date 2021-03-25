@@ -1,920 +1,688 @@
 med,frequency
-Lipitor,2452
-aspirin,1918
-ASA,1438
-lisinopril,1207
-Plavix,1172
-Lisinopril,1100
-atenolol,1068
-Atenolol,966
-Aspirin,877
-Norvasc,855
-insulin,837
-Lopressor,758
-Glucophage,700
-Metformin,676
-metformin,666
-Zocor,571
-glyburide,531
-Asa,511
-ATENOLOL,494
-Simvastatin,482
-Zestril,466
-Glyburide,447
-Metoprolol,439
-simvastatin,412
-Cozaar,404
-HCTZ,393
-LISINOPRIL,389
-metoprolol,380
-Toprol,373
-NPH,366
-Lantus,352
-nitroglycerin,335
-hydrochlorothiazide,324
-Avandia,307
-Insulin,288
-lipitor,283
-Glipizide,269
-Hydrochlorothiazide,260
-Ecotrin,233
-Pravachol,232
-Toprol XL,214
-Isordil,199
-Lipitor ,198
-lopressor,196
-METFORMIN,186
-Amlodipine,184
-glipizide,183
-atorvastatin,181
-ECASA,173
-Diovan,171
-Avapro,169
-Imdur,168
-amlodipine,166
-ASPIRIN,166
-Zetia,165
-Humulin,160
-Lisinopril ,157
-LIPITOR,156
-Nifedipine,155
-plavix,154
-glucophage,148
-GLYBURIDE,145
-Lopid,141
-Hctz,139
-Captopril,136
-Labetalol,135
-Atorvastatin,133
-Nitroglycerin,133
-Glucotrol,131
-nifedipine,131
-diltiazem,128
-Atenolol ,123
-Ecasa,123
-Novolog,121
-aspirin ,119
-ASA ,117
-Plavix ,115
-captopril,114
-Procardia,114
-lisinopril ,114
-labetalol,114
-Toprol-XL,113
-Humalog,113
-verapamil,113
-Micronase,112
-Verapamil,108
-Cardizem,106
-Losartan,103
-norvasc,102
-atenolol ,99
-NTG,92
-Actos,92
-Pravastatin,91
-losartan,90
-Clopidogrel,86
- insulin,85
-Diltiazem,84
-Tricor,83
-statin,82
-Toprol XL ,82
-Coreg,81
-NPH insulin,80
-Enalapril,78
-isosorbide,78
-HYDROCHLOROTHIAZIDE,75
-ZESTRIL,73
-SIMVASTATIN,73
-Dyazide,72
-lovastatin,69
-ATORVASTATIN,69
-asa,65
-Lopressor ,65
-TNG,64
-pravastatin,64
-NITROGLYCERIN,64
-NORVASC,63
-GLUCOPHAGE,63
-Zestril ,61
-Cozaar ,61
-Norvasc ,60
-lantus,60
-Metoprolol ,59
-clopidogrel,58
- lisinopril,58
-Vasotec,58
-Isosorbide,58
-toprol,58
-Crestor,58
-metoprolol ,55
-AMLODIPINE,55
-Altace,55
-Glucovance,54
-Aspirin ,52
-Mevacor,51
-Acetylsalicylic Acid,51
-HCTZ ,50
-Metformin ,49
-hctz,48
-Gemfibrozil,48
-Zocor ,48
-ZOCOR,45
-Toprol ,45
-LOPRESSOR,45
-Carvedilol,45
-Lescol,44
-BB,43
-METOPROLOL,43
- lisinopril ,43
-Lipitor (ATORVASTATIN),43
-enalapril,42
-Insulin Nph Human,42
-gemfibrozil,41
-Glyburide ,40
-pravachol,40
-zocor,40
-zestril,40
-isosorbide mononitrate,40
-ATENOLOL ,39
-Pioglitazone,39
-carvedilol,39
-INSULIN,39
-Asa ,39
-fosinopril,39
-regular insulin,38
-isordil,38
-Atacand,38
-PRAVASTATIN,38
-Ntg,37
-Labetolol,37
+aspirin,2961
+lipitor,2891
+lisinopril,2696
+atenolol,2528
+asa,2014
+metformin,1528
+plavix,1353
+insulin,1164
+glyburide,1123
+norvasc,1020
+lopressor,999
+simvastatin,967
+glucophage,911
+metoprolol,862
+hydrochlorothiazide,659
+zocor,656
+hctz,580
+zestril,579
+nitroglycerin,532
+glipizide,482
+cozaar,462
+toprol,446
+lantus,424
+amlodipine,405
+nph,387
+atorvastatin,383
+ecasa,341
+avandia,322
+nifedipine,310
+toprol xl,308
+lisinopril ,299
+pravachol,275
+captopril,274
+atenolol ,261
+labetalol,255
+isordil,252
+ecotrin,248
+diltiazem,236
+verapamil,221
+lipitor ,215
+imdur,199
+losartan,196
+pravastatin,193
+diovan,192
+novolog,187
+avapro,184
+aspirin ,183
+zetia,173
+clopidogrel,172
+procardia,167
+humulin,160
+asa ,159
+lopid,158
+glucotrol,158
+isosorbide,139
+humalog,136
+enalapril,129
+ntg,129
+actos,125
+micronase,121
+plavix ,119
+tricor,116
+dyazide,115
+toprol xl ,115
+metoprolol ,114
+toprol-xl,113
+metformin ,107
+cardizem,106
+ insulin,105
+nph insulin,104
+statin,102
+lovastatin,93
+ lisinopril,93
+coreg,93
+gemfibrozil,92
+carvedilol,84
+lopressor ,83
+vasotec,82
+glyburide ,80
+hctz ,79
+cozaar ,77
+norvasc ,75
+sotalol,73
+crestor,72
+ lisinopril ,71
+insulin ,69
+tng,67
+acetylsalicylic acid,67
+zestril ,65
+mevacor,64
+glucovance,61
+insulin nph human,60
+isosorbide mononitrate,59
+simvastatin ,58
+insulin nph,57
+pioglitazone,57
+zocor ,57
+labetolol,56
+altace,55
+toprol ,54
+regular insulin,53
+lescol,50
+nitro,50
+lipitor (atorvastatin),49
+fosinopril,48
+nitroglycerine,47
+niacin,47
+irbesartan,45
+hyzaar,45
+zestoretic,44
+bb,43
+ aspirin,43
+niaspan,43
+glynase,42
+atacand,41
+prinivil,39
+accupril,38
+isosorbide dinitrate,37
 ramipril,36
-Niaspan,36
-cozaar,36
-procardia,35
- aspirin,34
-Metroprolol,34
-NovoLog,33
-Insulin ,33
-Simvastatin ,33
-Prinivil,33
-novolog,33
-Glynase,33
-Inderal,32
-nitroglycerine,31
-nitro,31
-sotalol,31
-ecasa,30
-CZI,30
-Irbesartan,30
-Glimepiride,30
-GLIPIZIDE,30
-metformin ,30
-Toprol Xl,30
-Sotalol,30
-insulin pump,30
-LISINOPRIL ,28
-CLOPIDOGREL,28
-METFORMIN ,28
-PLAVIX,27
-insulin NPH,27
-enteric coated aspirin,27
-Lantus ,27
+ecasa ,36
+insulin pump,36
+nitropatch,35
+propranolol,35
+ lipitor,35
+inderal,35
+ atenolol,34
+nitroglycerin ,34
+lantus ,34
+metroprolol,34
+metoprolol tartrate,33
+asa (acetylsalicylic acid),33
+enteric coated aspirin,31
+czi,30
+glimepiride,30
+"lisinopril,",30
+atorvastatin ,28
+verapamil ,28
+valsartan,28
+lantus insulin,28
+lispro,28
+beta blocker,27
+tenormin,27
+glipizide ,27
+zestril (lisinopril),27
+insulin regular,27
 metformin hydrochloride,26
-Accupril,26
-Zestoretic,26
-Hyzaar,25
-DYAZIDE,25
-niacin,25
-Vytorin,25
-Monopril,25
-Trandate,25
-Lovastatin,24
-beta blocker,24
-ECASA ,24
-NIFEDIPINE,24
-DILTIAZEM,24
-Zestril (LISINOPRIL),24
-CAPTOPRIL,24
-Niacin,22
- Lipitor,22
- Lisinopril,22
-COZAAR,22
-Januvia,22
-"ASA,",21
-Tenormin,21
-insulin ,21
-isosorbide dinitrate,21
-Glipizide ,21
-nitroglycerin ,21
-glyburide ,21
-SL TNG,21
-TOPROL XL,21
-Asa (ACETYLSALICYLIC Acid),21
-Nitropatch,21
-Imdur ,20
- Insulin,20
-humalog,20
-Statin,20
-Atorvastatin ,19
-imdur,19
-labetolol,19
-Nitro,19
- Lisinopril ,19
-ARB,19
-GLYBURIDE ,19
-Valsartan,19
-Ecotrin ,19
-Lantus insulin,19
-Diabeta,18
-nph,18
-pioglitazone,18
-"lisinopril,",18
- HCTZ,18
-VASOTEC,18
-Glucophage ,18
-dyazide,18
-Nitrostat,18
-simvastatin ,18
-Norvasc (AMLODIPINE),18
+fenofibrate,25
+vytorin,25
+monopril,25
+trandate,25
+humulin n,24
+ atenolol ,24
+pravastatin ,24
+imdur ,23
+regular,23
+"asa,",22
+procardia xl,22
+ insulin ,22
+ plavix,22
+sl tng,22
+januvia,22
+hctz (hydrochlorothiazide),21
+glucophage ,21
+clopidogrel ,21
+captopril ,21
+zocor (simvastatin),21
+novolin,21
+ace,20
+arb,19
+ lipitor ,19
+ asa,19
+ simvastatin,19
+ecotrin ,19
+glucophage (metformin),19
+diabeta,18
+acetylsalicylic acid ,18
+ hctz,18
+pravachol ,18
+nitrostat,18
+isordil ,18
+bisoprolol,18
+glucotrol xl,18
+plavix (clopidogrel),18
+norvasc (amlodipine),18
 nitrates,18
-PROCARDIA,18
-GLUCOTROL,18
-ACTOS,18
-TRICOR,18
-Zocor (SIMVASTATIN),18
-Insulin 70/30 Human,18
-Zebeta,18
-RISS,17
-ACE,17
-NPH ,17
-Hctz ,17
-lopid,17
+ aspirin ,18
+lipitor (atorvastatin) ,18
+enalapril ,18
+insulin 70/30,18
+insulin 70/30 human,18
+zebeta,18
+riss,17
+baby aspirin,17
+nph ,17
+ace inhibitor,17
+regular insulin ,17
 ezetimibe,16
-PROPRANOLOL,16
-Procardia XL,16
+enteric-coated aspirin,16
+sl ntg,16
+ metformin,16
 nitroglycerins,16
- insulin ,16
- Plavix,16
- ASA,16
-ACETYLSALICYLIC ACID,16
-Nitroglycerine,16
-Toprol xl,16
-Glucophage (METFORMIN),16
-Insulin Lispro,16
-Lispro,16
-TOPROL,15
-"Plavix,",15
-diovan,15
-Calan,15
-Insulin NPH,15
-Toprol Xl ,15
- Lipitor ,15
- atenolol ,15
-avapro,15
-INSULIN ,15
-Clopidogrel ,15
-Captopril ,15
- Atenolol,15
-Verapamil ,15
-toprol XL,15
-TriCor,15
-NPH Insulin,15
-Isordil ,15
-ECOTRIN,15
-ISORDIL,15
-Humulin NPH,15
-Glucotrol XL,15
-Metoprolol TARTRATE,15
-Hctz (HYDROCHLOROTHIAZIDE),15
-Pravastatin ,15
-Procardia ,15
- aspirin ,15
-Insulin Regular,15
-EcASA,15
-actos,15
-Humulin N,15
-Plavix (CLOPIDOGREL),15
-Lantus (INSULIN GLARGINE),15
+insulin lispro,16
+"aspirin,",15
+"plavix,",15
+amlodipine ,15
+calan,15
+ zocor ,15
+ norvasc,15
+insulin nph ,15
+nph humulin insulin,15
+humulin nph,15
+plavix (clopidogrel) ,15
+metoprolol tartrate ,15
+procardia ,15
+insulin regular human,15
+acetylsalicylic acid (aspirin),15
+lantus (insulin glargine),15
 metolazone,15
-nitropatch,14
 sublingual nitroglycerin,14
-SL NTG,14
-crestor,14
- Imdur,14
-Humulin 70/30,13
-mevacor,13
- lipitor,13
-verapamil ,13
- atenolol,13
-Fenofibrate,13
-cozaar ,13
-Isosorbide Dinitrate,13
- LISINOPRIL,13
-Propranolol,12
-"aspirin,",12
-regular,12
-irbesartan,12
-INSULIN NPH HUMAN,12
-lopressor ,12
-Acetylsalicylic Acid ,12
-CCB,12
+nifedipine ,14
+ imdur,14
+humulin 70/30,13
+"atenolol,",13
+glucotrol ,13
+hydrochlorothiazide ,13
+ lopressor ,13
+carvedilol ,13
+ glyburide,13
+acei,13
+diovan ,13
+nph insulin ,13
+ acetylsalicylic acid,13
+diltiazem ,13
+"lipitor,",12
+avandia ,12
+aspirin enteric coated,12
+nifedipine xl,12
+ccb,12
 "metformin,",12
-Ecasa ,12
-Nitroquick,12
-Pravachol ,12
-LANTUS,12
-Zetia ,12
-HYZAAR,12
-"Lisinopril,",12
-NPH HUMULIN INSULIN,12
-Diovan ,12
-Plavix (CLOPIDOGREL) ,12
-Nitroglycerin 1/150,12
-Valsartan HCTZ,12
-ASPIRIN ,12
+micronase ,12
+nitroquick,12
+ hydrochlorothiazide ,12
+zetia ,12
+tricor ,12
+"metoprolol,",12
+ toprol,12
+nitroglycerin 1/150,12
+valsartan hctz,12
+rosuvastatin,12
 statin ,12
-Metoprolol Succinate Extended Release,12
-coreg,12
-IMDUR,12
-toprol xl,12
-Acetylsalicylic Acid (Aspirin),12
+metoprolol succinate extended release,12
+isosorbide mononitrate ,12
 fosinopril ,12
-Metoprolol Tartrate,12
-Insulin Regular Human,12
- Zocor ,12
-Lipitor (ATORVASTATIN) ,12
-lispro,12
-Novolin,12
-Enalapril ,12
-hctz ,12
-SOTALOL,12
-baby aspirin,11
-Regular,11
-EC ASA,11
-enteric-coated aspirin,10
-Glucotrol ,10
- Metformin,10
-Mavik,10
-"atenolol,",10
- Lopressor ,10
-Nitroglycerin ,10
+ atorvastatin,12
+labetalol hcl,12
+levemir,12
+nitropaste,11
+ec asa,11
+fluvastatin,11
+hctz (hydrochlorothiazide) ,10
+fenofibrate ,10
+ zocor,10
+ntg ,10
+mavik,10
+ nitroglycerin,10
 beta-blocker,10
-Nifedipine ,10
 chlorpropamide,10
- simvastatin,10
-ACEI,10
-regular insulin ,10
-NPH insulin ,10
-Amaryl,9
+ lopressor,10
+amaryl,9
 lisinorpill,9
-Enalapril Maleate,9
-"Lipitor,",9
-Metroprol,9
-fenofibrate,9
- LISINOPRIL ,9
- Zocor,9
-Avandia ,9
-SLTNG,9
-Amlodipine ,9
-ASPIRIN ENTERIC COATED,9
-Regular insulin,9
-Felodipine,9
-Glyset,9
-glucotrol,9
-nifedipine XL,9
- Norvasc,9
-Micronase ,9
-ENALAPRIL,9
-Nadolol,9
-Insulin NPH ,9
-Humulin n,9
-LIPITOR ,9
-valsartan,9
-"Toprol-XL,",9
-carvedilol ,9
- Toprol XL ,9
- Toprol XL,9
-Coreg ,9
-Ntg ,9
-ZOCOR ,9
-Propanolol,9
-nph insulin,9
-Bisoprolol,9
-bisoprolol,9
-Asa (ACETYLSALICYLIC ACID),9
-Tricor ,9
-Toprol XL  ,9
- Imdur ,9
- Aspirin,9
-Isosorbide Mononitrate,9
-Metoprolol Tartrate ,9
+enalapril maleate,9
+metroprol,9
+asa (acetylsalicylic acid) ,9
+sliding scale insulin,9
+sltng,9
+felodipine,9
+glyset,9
+regular ,9
+asa  ,9
+atenolol  ,9
+nadolol,9
+isosorbide dinitrate ,9
+ metformin ,9
+"toprol-xl,",9
+ lisinopril  ,9
+ toprol xl ,9
+ toprol xl,9
+coreg ,9
+propanolol,9
+toprol xl  ,9
+ imdur ,9
 pravastain,9
-"HCTZ,",9
-norvasc ,9
-"metoprolol,",9
+"hctz,",9
+novolog ,9
+ pravastatin,9
 labetaolol,9
-HUMULOG,9
-isosorbide mononitrate ,9
-Metfomin,9
-Glucatrol,9
+humulog,9
+metfomin,9
+glucatrol,9
+ micronase (glyburide) ,9
 provachol,9
-Fosinopril,9
 ramipril ,9
-avandia,9
-Hydochlorothiazide,9
+ isosorbide mononitrate,9
+hydochlorothiazide,9
 ezetimbe,9
-Cozar,9
-ACE Inhibitor,9
-MICRONASE,9
-Lantus Insulin,9
-QUINAPRIL,9
-Humalin,9
-Glyberide,9
-Diovan (VALSARTAN),9
+cozar,9
+humalog insulin,9
+quinapril,9
+humalin,9
+glucophage (metformin) ,9
+glyberide,9
+micronase (glyburide) ,9
+diovan (valsartan),9
 lopresor,9
+toprol xl (metoprolol succinate extended release) ,9
+aspirin (acetylsalicylic acid),9
 linsinopril,9
-Rosuvastatin,9
-INSULIN 70/30,9
-Insulin Nph,9
+detemir,9
 sisinoril,9
 troglitazone,9
- Simvastatin,9
 70/30 insulin,9
-Dyazide  (TRIAMTERENE 37.5 Mg/hctz 25 Mg),9
-Metormin,9
-zestoretic,9
-ZESTORETIC 20-25,9
-ATENOLOL  50MG 1 Tablet(s) PO QD,9
-ZESTORETIC,9
-glynase,9
-Glipizide Xl,9
-Zabeta,9
+dyazide  (triamterene 37.5 mg/hctz 25 mg),9
+metormin,9
+hctz 25mg,9
+zestoretic 20-25,9
+atenolol  50mg 1 tablet(s) po qd,9
+glipizide xl,9
+zabeta,9
 simvastain,9
-Glucopahge,9
-novolin,9
-Netformin,9
-Metforman,9
-ACE inhibitor,8
-lipitor ,8
-zetia,8
+glucopahge,9
+netformin,9
+metforman,9
 "insulin,",8
-hyzaar,8
-Niaspan ,8
-nitropaste,7
+niaspan ,8
+ntg sl,7
 70/30,7
 "beta blocker,",7
-Accupril ,7
-SLNTG,7
- glyburide,7
+insulin regular ,7
+accupril ,7
+slntg,7
+ zestril,7
 niacin ,7
-Bblocker,7
+bblocker,7
 beta blocker.,7
-Hctz (HYDROCHLOROTHIAZIDE) ,7
-SIMVASTATIN ,7
-lantus ,7
-niaspan,7
-ACE inhibitors,7
-glucovance,7
- Acetylsalicylic Acid,7
-ISOSORBIDE MONONITRATE,7
+sitagliptin,7
+ace inhibitors,7
  isosorbide,7
-diltiazem ,7
- Lopressor,7
-IV insulin,7
-propranolol,7
-Insulin 70/30 ,6
-Insulin REGULAR HUMULIN,6
-"Zestril,",6
-Insulin Aspart Sliding Scale,6
+ simvastatin ,7
+iv insulin,7
+aspirin (acetylsalicylic acid) ,7
+labetalol ,7
+insulin 70/30 ,6
+insulin regular humulin,6
+"zestril,",6
+insulin aspart sliding scale,6
 "hydrochlorothiazide,",6
-Capoten,6
-fenofibrate ,6
- ATENOLOL,6
-NTG SL,6
-sliding scale insulin,6
+capoten,6
 irbesartran,6
 insulin-requiring,6
 glyburide.,6
 hydrochlorothiazid,6
 simvastatin.,6
-Actose,6
- Hctz ,6
-  LISINOPRIL,6
-hydrochlorothiazide ,6
+ lantus,6
+actose,6
+pioglitazone ,6
+ hctz ,6
+  lisinopril,6
 " lisinopril,",6
-Asa  ,6
- Ecotrin,6
-Vasotec ,6
-Enteric-coated aspirin,6
+lisinopril  ,6
+ ecotrin,6
+vasotec ,6
 enteric coated aspirin ,6
-ISOSORBIDE DINITRATE ,6
-LOPRESSOR ,6
-Pravachol.,6
- Hydrochlorothiazide ,6
-CZI Regular,6
-Atenololl,6
-Altase,6
-tenormin,6
-Gemfibrozil ,6
+pravachol.,6
+ hydrochlorothiazide,6
+procardia xl ,6
+czi regular,6
+ amlodipine,6
+atenololl,6
+metoprolo,6
+altase,6
+gemfibrozil ,6
 nitrogylcerin,6
-Caduet,6
-Altace ,6
-accupril,6
-METFORMIN   ,6
-Mevacor ,6
-Chlropropamiden,6
-glipizide ,6
+caduet,6
+aspirin. ,6
+altace ,6
+metformin   ,6
+metformin.,6
+"ace,",6
+glucophage.,6
+mevacor ,6
+chlropropamiden,6
+sl tng ,6
+ clopidogrel ,6
+ toprol ,6
 glypizide,6
- toprol,6
-captopril ,6
-NORVASC ,6
-REGULAR INSULIN ,6
-ASA-EC,6
-ISOSORBIDE MONONIT,6
-LIPITOR (ATORVASTATIN),6
- Atenolol ,6
-Metoprolol XL,6
-Atorvastatin  ,6
-Valsartan ,6
- Plavix ,6
-Toprol X,6
-clopidogrel ,6
-pravastatin ,6
-" ASA,",6
-pravachol ,6
- nitroglycerin,6
-Nitro-Dur,6
-Insulin pump,6
+ glyburide ,6
+    asa ,6
+asa-ec,6
+isosorbide mononit,6
+metoprolol xl,6
+atorvastatin  ,6
+valsartan ,6
+ plavix ,6
+toprol x,6
+" asa,",6
+metoprolol succinate,6
+nitro-dur,6
 70/30 ,6
-sitagliptin,6
+imdur (isosorbide mononit.(sr)),6
+imdur (isosorbide mononit.(sr)) ,6
+pravachol (pravastatin) ,6
 candesartan,6
-Toprol xl ,6
 isosorbide mononitrite,6
-toprol xl ,6
 beta-blockers,6
-  Isosorbide Dinitrate,6
+  isosorbide dinitrate,6
 isosorbide nitrate,6
-Humulin insulin,6
-METOPROLOL TARTRATE,6
-"Insulin REGULAR HUMAN 3 UNITS SC AC+HS , use per sliding scale-2U if 150-200, 4U if 200-250, 6U 250-300, 8U 300-350",6
- Asa (ACETYLSALICYLIC Acid) ,6
- Micronase (GLYBURIDE) ,6
-Lopid (GEMFIBROZIL),6
-insulin regular,6
-LESCOL,6
-Nitro stat,6
-Lipitor.,6
-Novolog ,6
- Toprol,6
- Metoprolol ,6
-Ntg 1/150,6
+humulin insulin,6
+"insulin regular human 3 units sc ac+hs , use per sliding scale-2u if 150-200, 4u if 200-250, 6u 250-300, 8u 300-350",6
+ asa (acetylsalicylic acid) ,6
+lopid (gemfibrozil),6
+nitro stat,6
+lipitor.,6
+lipitor 10mg qhs,6
+zocor.,6
+ metoprolol ,6
+ntg 1/150,6
 ranolazine,6
+ regular insulin,6
+insulin regular human ,6
+ insulin nph,6
 statins,6
- ECASA,6
- ISOSORBIDE MONONITRATE,6
+ ecasa,6
 "beta-blocker, ",6
-ACCUPRIL,6
-Lopid ,6
-Amlodipine (Norvasc),6
-Insulin REGULAR,6
-Regular Insulin,6
-Lopressor (METOPROLOL TARTRATE),6
-Glucophage (METFORMIN) ,6
-Fosinoperil,6
+lopid ,6
+amlodipine (norvasc),6
+lopressor (metoprolol tartrate),6
+fosinoperil,6
 insulin/70/30,6
-Pravaastatin,6
-  Insulin,6
-procardia xl,6
-"Toprol,",6
+pravaastatin,6
+ metoprolol,6
+  insulin,6
+"toprol,",6
 lisinopril;,6
-regular ,6
-Labetalol Hcl,6
-Vaseretic,6
-Lisino,6
-Insulin Nph Human ,6
-Atorvastatin (Lipitor ),6
- ACETYLSALICYLIC ACID,6
-NovoLog insulin,6
-Labetalol ,6
-LEVEMIR,6
-levemir,6
-Diltiazem ,6
- Insulin ,6
-NPH  insulin,6
-Bayer ASA,6
-Verapamil Hcl,6
-Acetylsalicylic Acid (Aspirin ),6
+ verapamil,6
+humalog (insulin lispro),6
+vaseretic,6
+lisino,6
+insulin nph human ,6
+atorvastatin (lipitor ),6
+atorvastatin (lipitor ) ,6
+novolog insulin,6
+ lovastatin ,6
+nph  insulin,6
+bayer asa,6
+lispro insulin,6
+glucotrol xl (glipizide xl),6
+verapamil hcl,6
+acetylsalicylic acid (aspirin ),6
+metformin 850 mg,6
 adalat,6
-Insulin 70/30,6
-Enteric-coated baby aspirin,6
-ATORVASTATIN ,6
+enteric-coated baby aspirin,6
 lisinopril.,6
+lisinopril. ,6
 lisnopril,6
 "diltiazem,",6
-LABETALOL,6
-Toprol Xl (METOPROLOL Succinate Extended Release) ,6
-toprol ,6
-Dyazide ,6
-HCTZ 25mg,6
-fluvastatin,6
- GLYBURIDE,6
-Glybyride,6
-ASA 81 qd,6
-detemir,6
-"ATENOLOL 50MG, 0.5 Tablet(s) PO QD",6
-"Glucovance (GLYBURIDE/METFORMIN) 2.5-500MG, 2 Tablet(s) PO BID",6
-ASA     PO,6
-ATENOLOL  25MG PO QD,6
-LIPITOR (ATORVASTATIN) ,6
-vasotec,6
-DIOVAN,6
+metformin 500 mg,6
+dyazide ,6
+atenolol 25 mg qd,6
+lisinopril 20 mg,6
+glybyride,6
+asa 81 qd,6
+"atenolol 50mg, 0.5 tablet(s) po qd",6
+"glucovance (glyburide/metformin) 2.5-500mg, 2 tablet(s) po bid",6
+asa 325mg qd,6
+asa     po,6
+atenolol  25mg po qd,6
+metformin 500mg bid,6
 metfromin,6
-PRINIVIL,6
+glyburide 2.5 mg qd,6
 lipitor 40 mg qhs,6
-ASPIRIN (ACETYLSALICYLIC ACID) ,6
 glyburide 5 mg bid,6
-MICRONASE (GLYBURIDE) ,6
 atenolol 50 mg qd,6
- Atorvastatin,6
-Atorvastatin (Lipitor)  20 MG PO QHS,6
-Acetylsalicylic Acid (Aspirin)  81 MG PO QAM,6
-Clopidogrel (Plavix)  75 MG PO QAM,6
-Metformin  500 MG PO BID,6
-Glyburide  1.25 MG PO QAM,6
-Pioglitazone (Actos)  15 MG PO QAM,6
-Atenolol  50 MG PO QAM,6
-AVANDIA,6
+atorvastatin (lipitor)  20 mg po qhs,6
+acetylsalicylic acid (aspirin)  81 mg po qam,6
+clopidogrel (plavix)  75 mg po qam,6
+metformin  500 mg po bid,6
+glyburide  1.25 mg po qam,6
+pioglitazone (actos)  15 mg po qam,6
+atenolol  50 mg po qam,6
 lisinorpil,6
-Lisinopril/hydrochlorothiazide,6
-LOTENSIN,6
-Baby aspirin,6
-Insulin regular SS,6
+lisinopril/hydrochlorothiazide,6
+lotensin,6
+insulin regular ss,6
 nitrate,5
-Timolol,5
-SSI,5
-NG,5
-Fluvastatin,5
-Regular insulin sliding scale ,5
-Crestor ,5
-"Gemfibrozil,",4
- Procardia,4
-Propranolol ,4
- lipitor ,4
-Nitropaste,4
- Nitroglycerin,4
-Carvedilol ,4
-Plavix  ,4
-Sliding scale insulin.,4
-ECASA 325 mg qd,4
-plavix ,4
-Hydrochlorothiazide ,4
- Zestril,4
-ASA 81mg qd,4
-Monopril ,4
-Lipitpr,4
-Coated aspirin,3
-Humulin 70/30 ,3
-Insulin Regular Humulin ,3
-Toprol-XL ,3
-Hctz (Hydrochlorothiazide),3
- Enalapril,3
+timolol,5
+ isosorbide dinitrate ,5
+ssi,5
+nitrodur,5
+ng,5
+nicardipine,5
+regular insulins,5
+regular insulin sliding scale ,5
+crestor ,5
+"gemfibrozil,",4
+ procardia,4
+verapamil sr,4
+propranolol ,4
+ niacin,4
+plavix  ,4
+diuretics,4
+ nitroglycerin ,4
+sliding scale insulin.,4
+ecasa 325 mg qd,4
+beta blockers,4
+ glucophage,4
+70/30 novolog,4
+asa 81mg qd,4
+monopril ,4
+lipitpr,4
+coated aspirin,3
+humulin 70/30 ,3
+insulin regular humulin ,3
+iv lopressor,3
+toprol-xl ,3
+ enalapril,3
 "enalapril,",3
-ISS,3
-ZESTRIL (LISINOPRIL) ,3
-HCTZ (HYDROCHLOROTHIAZIDE) ,3
-ASA (ACETYLSALICYLIC ACID) ,3
-"Norvasc,",3
-"Atenolol,",3
-Aliskiren/HCTZ,3
+iss,3
+zestril (lisinopril) ,3
+"norvasc,",3
+aliskiren/hctz,3
 discontinuation of the gemfibrozil ,3
-Humalog sliding scale sc tid,3
-Humalog ,3
-"TNG, ",3
-Humalog insulin 75/25,3
-  Zocor,3
-      LISINOPRIL  ,3
- Nifedipine XL ,3
- Toprol-XL ,3
+humalog sliding scale sc tid,3
+humalog ,3
+"tng, ",3
+humalog insulin 75/25,3
+  zocor,3
+      lisinopril  ,3
+ start metformin,3
+ nifedipine xl ,3
+ toprol-xl ,3
 baby aspirin ,3
- Insulin.,3
-NPH Insulin.,3
+ insulin.,3
+nph insulin.,3
 "(lisinopril 10 mg daily,). ",3
-(Lipitor 40 mg daily).,3
-Aspirin 325 mg daily. ,3
+(lipitor 40 mg daily).,3
+aspirin 325 mg daily. ,3
  nph ,3
-nph insulin humulin n  SQ 25u am and 10 u pm,3
-Lantus insulin 58u/day,3
-TNG ,3
- Mevacor,3
- Lantus insulin ,3
+nph insulin humulin n  sq 25u am and 10 u pm,3
+lantus insulin 58u/day,3
+tng ,3
+ mevacor,3
+ lantus insulin ,3
 atorva,3
-IRBESARTAN,3
-Atenolol 25 mg BID,3
-    Hyzaar ,3
-Verapamil SR,3
-"verapamil hydrochloride, SR",3
-Humulin  n ,3
-Humulin  r,3
-Humulin N 40 qAM / 22 qPM,3
-Humulin R (INSULIN REGULAR HUMAN) Variable (100 U/ML VIAL ML) SC ,3
- (Insulin Nph Human,3
-Humulin R),3
-NITROGLYCERIN ,3
+atenolol 25 mg bid,3
+    hyzaar ,3
+"verapamil hydrochloride, sr",3
+humulin  n ,3
+humulin  r,3
+humulin n 40 qam / 22 qpm,3
+humulin r (insulin regular human) variable (100 u/ml vial ml) sc ,3
+ (insulin nph human,3
+humulin r),3
 to glipizide,3
-SL NTG.,3
-"Humulin NPH 20 units qAM, 15 qPM, Humulin  Regular insulin 3 units qAM, 5 qPM",3
- Humulin NPH ,3
-"Humalog SS, Lantus 10 units qpm",3
-Aspirin 81 mg PO daily.,3
-Topro,3
- lantus,3
+sl ntg.,3
+"humulin nph 20 units qam, 15 qpm, humulin  regular insulin 3 units qam, 5 qpm",3
+ humulin nph ,3
+"humalog ss, lantus 10 units qpm",3
+aspirin 81 mg po daily.,3
+topro,3
 "lantus, humalog sliding scale",3
-Inderal ,3
-inderal,3
-Ascorbic Acid ,3
-Propranolol Extended Release (Inderal La)  PO 240 mg QD,3
-(Inderal La,3
- Inderal,3
- zocor ,3
+inderal ,3
+ascorbic acid ,3
+propranolol extended release (inderal la)  po 240 mg qd,3
+(inderal la,3
+ inderal,3
 isosorbide ,3
-Regular ,3
-NPH 40 / Regular 10+ scale qAM before  breakfast Regular 10+ scale qPM before  supper NPH 30 at bedtime QID Regular sliding scale,3
-pioglitazone ,3
+nph 40 / regular 10+ scale qam before  breakfast regular 10+ scale qpm before  supper nph 30 at bedtime qid regular sliding scale,3
 sulfonylurea,3
-Insulin NPH Human,3
-Insulin regular SC,3
-Insulin regular ,3
-NPH insulin  6 units sc daily,3
-NPH and regular insulin 2 units QAM,3
-glucotrol ,3
-Mavik ,3
- Mavik,3
-Humulin 10-20 units qam ,3
-Humulin 30-35 units qpm,3
-Humulin ,3
- nifedipine XL,3
-          Toprol Xl ,3
- been on Accupril,3
-Atican,3
-Atican ,3
-ATACAND,3
-Atacand ,3
+insulin regular sc,3
+nph insulin  6 units sc daily,3
+nph and regular insulin 2 units qam,3
+mavik ,3
+ mavik,3
+humulin 10-20 units qam ,3
+humulin 30-35 units qpm,3
+humulin ,3
+ nifedipine xl,3
+          toprol xl ,3
+ been on accupril,3
+atican,3
+atican ,3
+atacand ,3
 atenolo,3
-Lisinopril  ,3
-Atenolol  ,3
-Micronaise,3
-"Imdur,",3
-NIFEDIPINE ,3
- Lipitor    ,3
-Metformin  ,3
- Nadolol ,3
-Enteric-coated aspirin ,3
+micronaise,3
+"imdur,",3
+ lipitor    ,3
+metformin  ,3
+ nadolol ,3
+enteric-coated aspirin ,3
 lente insulin,3
- Lente ,3
-Lente,3
-Insulin Reg,3
-ISOSORBIDE DINITRATE,3
-Avapro a,3
+ lente ,3
+lente,3
+insulin reg,3
+avapro a,3
 added glyburide ,3
-Avapro ,3
- Hydrochlorothiazide,3
-Nadolol ,3
- insulin NPH ,3
-Glucophag,3
-Humulin r,3
-Procardia XL ,3
-addition of Coreg,3
-Tng,3
-"Insulin: Lantus 9-10 U qhs, Humalog sliding scale.",3
- AMLODIPINE,3
-Lantus and a humalog sliding scale,3
-Lantus 14 U qHS,3
-insulin glargine (rdna origin) injection 14 u SC QHS,3
-Zestril 20mg,3
-ASA 325mg ,3
-Glucovance 2.5/500mg ,3
-Lantus 10 units hs,3
-Atenolol was changed to Toprol. ,3
-Toprol XL 50mg,3
-Lisinoprill,3
-Captoril,3
-ASA 81,3
-metoprolo,3
-insulin NPH 10 units qam,3
-insulin NPH ,3
-NPH 10 units q.d.,3
+avapro ,3
+nadolol ,3
+ insulin nph ,3
+glucophag,3
+humulin r,3
+addition of coreg,3
+"insulin: lantus 9-10 u qhs, humalog sliding scale.",3
+lantus and a humalog sliding scale,3
+lantus 14 u qhs,3
+insulin glargine (rdna origin) injection 14 u sc qhs,3
+zestril 20mg,3
+asa 325mg ,3
+glucovance 2.5/500mg ,3
+lantus 10 units hs,3
+atenolol was changed to toprol. ,3
+toprol xl 50mg,3
+lisinoprill,3
+captoril,3
+asa 81,3
+insulin nph 10 units qam,3
+nph 10 units q.d.,3
 insulin therapy,3
 nifedipine.,3
-Insulin lantus 50u SC QPM,3
-Insulin Lispro 10-15u AC,3
+insulin lantus 50u sc qpm,3
+insulin lispro 10-15u ac,3
 "glyburide,",3
-Aspirin. ,3
-Hydrochlorothiazide. ,3
- Toprol. ,3
- Metformin ,3
-ace,3
-beta Blocker,3
-Metoprolol tartrate (lopressor ) 12.5 MG PO Q8H,3
+hydrochlorothiazide. ,3
+ toprol. ,3
+metoprolol tartrate (lopressor ) 12.5 mg po q8h,3
 regular insulin  sliding scale sc tid,3
-atenolol  ,3
-Insulin SS ,3
-metformin.,3
+insulin ss ,3
 "nifedipine,",3
 amlodipine.,3
 "amlodipine,",3
-"ace,",3
 norvasc.,3
- lisinopril  ,3
-lisinopril  ,3
 hydrochlorothiazide  ,3
-Prinivil ,3
-Nitrostat ,3
-Tenormin ,3
-"ACE,",3
-TNG SL ,3
-" BB,",3
+prinivil ,3
+nitrostat ,3
+tenormin ,3
+tng sl ,3
+" bb,",3
 verapamil.,3
-Glucophage.,3
-Chlropropamiden ,3
-ACE-inhibitor,3
-"Glipizide,",3
-SL TNG ,3
-sl TNG ,3
- Clopidogrel ,3
-  Toprol XL ,3
- Isordil,3
- Simvastatin  ,3
- Toprol ,3
+chlropropamiden ,3
+ace-inhibitor,3
+"glipizide,",3
+  toprol xl ,3
+ isordil,3
+ simvastatin  ,3
 long-acting insulin,3
- Coreg 3.125mg qD,3
-TriCor ,3
-"Metoprolol,",3
- zestril,3
+ coreg 3.125mg qd,3
 nph 40 units in the morning and 40 units at night time,3
-Cozaa,3
- LISINOPRI,3
-     Ecasa,3
- ATENOLOL   ,3
+cozaa,3
+ lisinopri,3
+     ecasa,3
+ atenolol   ,3
 plavix.,3
- NORVASC,3
- GLYBURIDE ,3
-ZOCOR   ,3
-    Asa ,3
-HCTZ  ,3
-ATENOLOL  ,3
-ISORDIL ,3
-NPH REGULAR ,3
-Lopressor  50MG PO BID,3
-changed to Plavix,3
+zocor   ,3
+hctz  ,3
+nph regular ,3
+lopressor  50mg po bid,3
+changed to plavix,3
 a beta blocker,3
-ISOSORBIDE,3
-TOPROL XL ,3
 lipitor20,3
-ZESTRIL ,3
-ZESTRIL (LISINOPRIL),3
- ASA (ACETYLSALICYLIC ACID),3
- PLAVIX,3
-PLAVIX (CLOPIDOGREL),3
-HCTZ (HYDROCHLOROTHIAZIDE),3
- NITROGLYCERIN 1/150 (0.4 MG),3
-NORVASC (AMLODIPINE) ,3
- Zestril ,3
-aspirin. ,3
-glucophage.,3
-Metformin.,3
-Valsartan HCTZ ,3
+ asa (acetylsalicylic acid),3
+ nitroglycerin 1/150 (0.4 mg),3
+norvasc (amlodipine) ,3
+ zestril ,3
+valsartan hctz ,3
 atorvastatin.,3
-Metformin     ,3
-Amlodipine  ,3
-Metoprolol XL ,3
-Lipitor  ,3
+metformin     ,3
+amlodipine  ,3
+metoprolol xl ,3
+lipitor  ,3
 imvastatin,3
-plus HCTZ 25,3
+plus hctz 25,3
 simvastatin  ,3
- Tricor ,3
-Ranexa ,3
-ASPIRIN ENTERIC COATED ,3
+ tricor ,3
+ranexa ,3
+aspirin enteric coated ,3
 clopidogrel bisulfate  7,3
 isosorbide mononitrate extended release,3
 sosorbide mononitrate ,3
@@ -922,1196 +690,1001 @@ mononitrate ,3
 amlodipine besylate,3
  fenofibrate  ,3
 metoprolol tartrate  ,3
-metoprolol tartrate ,3
-Ranexa,3
-imdur ,3
-novolog ,3
-Metoprolol TARTRATE ,3
-Cozzar,3
+ranexa,3
+cozzar,3
 "statins,",3
-Solostar,3
-"Cozzar,",3
-ARB.,3
- Pravastatin,3
- pravastatin,3
+solostar,3
+"cozzar,",3
+arb.,3
 metoprolol succinate ,3
-Metoprolol Succinate,3
 cozaar.,3
-ASA. ,3
+asa. ,3
 atenolol/,3
 atenolol50,3
-Pravacho,3
-Pravachol. ,3
+pravacho,3
+pravachol. ,3
 coreg.,3
- Coreg ,3
- Procardia XL,3
+ coreg ,3
+ procardia xl,3
 sublingual nitroglycerine,3
  losartan,3
- nitroglycerin ,3
-  Toprol,3
-added Diovan,3
-NitroDur ,3
-NitroDur,3
-10. Sliding scale insulin.,3
-Vytorin 10mg/80mg po qhs,3
-Toprol XL 25 mg po qd,3
-Insulin pump at 1U/hr ( = NPH 12 U qam,3
-isosorbide dinitrate  30 mg QD,3
-isosorbide dinitrate ,3
-(Aspirin,3
-Insulin Glargine (Lantus ),3
+  toprol,3
+added diovan,3
+nitrodur ,3
+10. sliding scale insulin.,3
+vytorin 10mg/80mg po qhs,3
+toprol xl 25 mg po qd,3
+insulin pump at 1u/hr ( = nph 12 u qam,3
+isosorbide dinitrate  30 mg qd,3
+(aspirin,3
+insulin glargine (lantus ),3
 lisinopr,3
 insulin-dependent,3
-Nystatin,3
-IMDUR (ISOSORBIDE MONONIT.(SR)),3
+nystatin,3
  started glucophage,3
-Imdur (ISOSORBIDE MONONIT.(SR)),3
-Imdur (ISOSORBIDE MONONIT.(SR)) ,3
-CGI,3
+cgi,3
 isosorbide  mononitrate 60 mg p.o. q.d,3
-sliding scale CZI,3
-PRAVACHOL,3
-PRAVACHOL (PRAVASTATIN) ,3
-PLAVIX (CLOPIDOGREL) ,3
-IMDUR (ISOSORBIDE MONONIT.(SR)) ,3
-TNG 0.4 MG (NITROGLYCERIN 1/150 (0.4 MG)) ,3
-NPH INSULIN ,3
+sliding scale czi,3
+tng 0.4 mg (nitroglycerin 1/150 (0.4 mg)) ,3
  isosorbide mononitrate ,3
 betalol,3
-Insulin 70/30 (HUMAN)   Variable  (70-30 U/ML VIAL ) SC  ,3
-"Insulin 70/30 (HUMAN) Variable (70-30 U/ML VIAL ) SC , 45 am, Pm ",3
-Insulin variable dosing,3
+insulin 70/30 (human)   variable  (70-30 u/ml vial ) sc  ,3
+"insulin 70/30 (human) variable (70-30 u/ml vial ) sc , 45 am, pm ",3
+insulin variable dosing,3
 isosorbide mononitrate 30 mg sr po qd,3
 isosorbide mononitrate  30 mg sr po bid,3
-isosorbide mononitrite 60 mg SR 1 1/2 tabs daily ,3
+isosorbide mononitrite 60 mg sr 1 1/2 tabs daily ,3
 isosorbide mononitrite ,3
 enteric coated aspirin one tab po q.d,3
  enteric coated aspirin ,3
-CZI insulin,3
-CZI insulin 30 units sub q qAM,3
-NPH insulin 60 units sub q qPM,3
-NPH insulin 64 units sub q qAM along with 34 units CZI sub q qAM and 68 units NPH sub q qPM,3
-insulin 10 units of CZI with 72 units NPH qam and 74 units NPH qpm. ,3
+czi insulin,3
+czi insulin 30 units sub q qam,3
+nph insulin 60 units sub q qpm,3
+nph insulin 64 units sub q qam along with 34 units czi sub q qam and 68 units nph sub q qpm,3
+insulin 10 units of czi with 72 units nph qam and 74 units nph qpm. ,3
 amlidopine,3
-Lipitor was added to his regimen,3
-nifedipine XR,3
- Isosorbide Dinitrate ,3
+lipitor was added to his regimen,3
+nifedipine xr,3
 atneolol,3
-Toprol XL 50 mg qd,3
-Toprol XL 50 mg   qd,3
- Toprol-XL,3
-Isosorbide mononitrate,3
-Isosorbide mononitrate ,3
-S.C,3
+toprol xl 50 mg qd,3
+toprol xl 50 mg   qd,3
+ toprol-xl,3
+s.c,3
  isosorbide nitrate,3
 trans-   derm nitro,3
 75/25 insulin 40 units,3
-INSULIN ASPART,3
-NPH 50unit,3
-INSULIN NPH,3
-" Ecasa (ASPIRIN Enteric Coated) 325MG, 1 Tablet(s) PO QD x 30 day",3
-"Zestoretic (LISINOPRIL/HYDROCHLOROTHIAZIDE) 20-12.5, 1 Tablet(s) PO QD x 30 day(s)",3
-Lisinopril/HCTZ,3
-Humulin 70/30 100U,3
-Insulin 70/30 (HUMAN) 50 U SC QAM x 30 day(s),3
-Humulin 70/30 30 UNITS qpm x 30 day(s),3
-Lisinopril 20/HCTZ 25 qd.  ,3
-Humulin 70/30 60 UNITS qpm x 30 days ,3
-Insulin 70/30 (HUMAN) 30 U/30 U SC QAM/Qpm ,3
-Insulin REGULAR HUMAN,3
-Lipitor 40 MG PO QD ,3
-Glucophage 500 MG PO BID ,3
-Humulin 70/30 60 UNITS qpm x 30 days,3
-Insulin 70/30 (HUMAN) 30 U/30 U SC QAM/Qpm,3
-Lip,3
-Lopid (GEMFIBROZIL) ,3
-Pravachol (PRAVASTATIN) ,3
-Avandia (ROSIGLITAZONE),3
-Vytorin (80 simvastatin/10 zetia),3
-Gemfibrozil (Lopid ),3
-Rosiglitazone (Avandia),3
+insulin aspart,3
+nph 50unit,3
+" ecasa (aspirin enteric coated) 325mg, 1 tablet(s) po qd x 30 day",3
+"zestoretic (lisinopril/hydrochlorothiazide) 20-12.5, 1 tablet(s) po qd x 30 day(s)",3
+lisinopril/hctz,3
+humulin 70/30 100u,3
+insulin 70/30 (human) 50 u sc qam x 30 day(s),3
+humulin 70/30 30 units qpm x 30 day(s),3
+lisinopril 20/hctz 25 qd.  ,3
+humulin 70/30 60 units qpm x 30 days ,3
+insulin 70/30 (human) 30 u/30 u sc qam/qpm ,3
+lipitor 40 mg po qd ,3
+glucophage 500 mg po bid ,3
+humulin 70/30 60 units qpm x 30 days,3
+insulin 70/30 (human) 30 u/30 u sc qam/qpm,3
+lip,3
+lopid (gemfibrozil) ,3
+avandia (rosiglitazone),3
+vytorin (80 simvastatin/10 zetia),3
+gemfibrozil (lopid ),3
+rosiglitazone (avandia),3
 recently switched to zetia,3
-nicardipine,3
-beta blockers,3
  insulin regular,3
-Glucophage 850MG BID,3
-Glucophage 500mg,3
-Glucophage 850MG,3
-GLUCOPHAGE 850MG ,3
+glucophage 850mg bid,3
+glucophage 500mg,3
+glucophage 850mg,3
+glucophage 850mg ,3
 insulin  70/30,3
  insulin  70/30,3
- Nitro stat,3
-Nitro stat ,3
-started Toprol XL,3
-Regular insulinSS ,3
-Regular insulinS,3
-Insulin Regular Inj Sliding Scale SC ,3
-Ezetimibe 10 Mg - Simvastatin 20 Mg (Vytorin 10/27),3
-Metoprolol Tartrate (Lopressor),3
- Glucophage ,3
+ nitro stat,3
+nitro stat ,3
+started toprol xl,3
+regular insulinss ,3
+insulin regular inj sliding scale sc ,3
+ezetimibe 10 mg - simvastatin 20 mg (vytorin 10/27),3
+metoprolol tartrate (lopressor),3
+ glucophage ,3
  fosinopril,3
 "simvastatin,",3
- hydrochlorothiazide,3
-amlodipine ,3
-Lipitor 10mg QHS,3
-glucophage ,3
-Zocor.,3
  nitro,3
-"Cozaar,",3
- niacin,3
-Toprol.,3
-ACEi.,3
-"ACEi,",3
- atorvastatin,3
-atorvastatin ,3
-"BB,",3
- ATORVASTATIN,3
-ASA.,3
-  Nitroglycerin ,3
- CCB ,3
+"cozaar,",3
+toprol.,3
+acei.,3
+"acei,",3
+"bb,",3
+asa.,3
+  nitroglycerin ,3
+ ccb ,3
 statin.,3
 " beta blocker, ",3
- Ecotrin ,3
-"Lipitor (ATORVASTATIN) 20MG TABLET take 1 Tablet(s) PO QD , Take as directed ",3
-Avapro (IRBESARTAN,3
- isosorbide mononitrate,3
-  Lipitor,3
+ ecotrin ,3
+"lipitor (atorvastatin) 20mg tablet take 1 tablet(s) po qd , take as directed ",3
+avapro (irbesartan,3
+  lipitor,3
   metformin,3
-  Tricor,3
-ACETYLSALICYLIC ACID (ASPIRIN),3
-CLOPIDOGREL (PLAVIX),3
-GLARGINE (LANTUS ),3
-FENOFIBRATE (TRICOR),3
-Insulin.,3
+  tricor,3
+clopidogrel (plavix),3
+glargine (lantus ),3
+fenofibrate (tricor),3
+insulin.,3
 regular insulin for sliding scale,3
- regular insulin,3
-NPH insulin 42 units,3
-Insulin Regular Human ,3
+nph insulin 42 units,3
  isosorbide ,3
- Lopresso,3
-Toprol XL.   ,3
-Insulin NPH 20 units,3
- Insulin NPH,3
-sliding scale  insulin and Humulin N,3
- glyburide ,3
+ lopresso,3
+toprol xl.   ,3
+insulin nph 20 units,3
+sliding scale  insulin and humulin n,3
   aspirin ,3
-ACE inhibitor ,3
+ace inhibitor ,3
  ramipril,3
- NPH,3
+ nph,3
 sliding scale,3
- INSULIN NPH HUMAN ,3
-INSULIN REGULAR HUMAN ,3
- plavix,3
+ insulin nph human ,3
 "beta-blocker,",3
-MICRONASE ,3
 increased lisinopril,3
-Lipitor 2,3
-Lantus insulin ,3
- Captopril ,3
-Acetylsalicylic acid ,3
-Insulin nph,3
-Insulin aspart (novolog,3
-Insulin nph human,3
-"Lantus insulin, and Humalog",3
- Humalog 0-2/4-8/6-10 111-64-17  Lantus ,3
-Imdur 3,3
-Humalog Insulin,3
-GEMFIBROZIL,3
-ASPIRIN Enteric Coated),3
-Atorvastatin (Lipitor),3
-Enteric coated aspirin,3
-insulin dependent DM,3
-Humulin N (INSULIN NPH HUMAN),3
-nifedipine xl,3
-Humulin n ,3
-labetalol hcl,3
-Ecasa (ASPIRIN ENTERIC COATED),3
-Glucotrol (GLIPIZIDE),3
-Monopril (FOSINOPRIL SODIUM),3
-Micronase (GLYBURIDE),3
- Monopril (FOSINOPRIL Sodium) ,3
- Aspirin (ACETYLSALICYLIC Acid),3
-Hctz (HYDROCHLOROTHIAZIDE)  ,3
-Micronase (GLYBURIDE) ,3
-Lantus and novolog,3
-"Pravaastatin,",3
- Metoprolol,3
-insulin CZI,3
-  Norvasc,3
+lipitor 2,3
+lantus insulin ,3
+ captopril ,3
+insulin aspart (novolog,3
+"lantus insulin, and humalog",3
+ humalog 0-2/4-8/6-10 111-64-17  lantus ,3
+imdur 3,3
+aspirin enteric coated),3
+atorvastatin (lipitor),3
+insulin dependent dm,3
+humulin n (insulin nph human),3
+humulin n ,3
+ecasa (aspirin enteric coated),3
+glucotrol (glipizide),3
+monopril (fosinopril sodium),3
+micronase (glyburide),3
+ monopril (fosinopril sodium) ,3
+ aspirin (acetylsalicylic acid),3
+hctz (hydrochlorothiazide)  ,3
+lantus and novolog,3
+"pravaastatin,",3
+insulin czi,3
+  norvasc,3
 reg ins sliding scale,3
-  Diovan,3
+  diovan,3
 aspirin qd,3
-PROCARDIA XL ,3
 procadia,3
-LOSARTAN,3
 on statin,3
-Asa 81 MG PO QD  ,3
-HCTZ.,3
-toprol XL.,3
-Toprol XL (METOPROLOL SUCCINATE EXTENDED,3
-toprol XL ,3
+asa 81 mg po qd  ,3
+hctz.,3
+toprol xl.,3
+toprol xl (metoprolol succinate extended,3
  pavix,3
 pavix,3
-NPH 30,3
-EC Aspirin ,3
-Insulin NPH (or Humulin N?),3
-Novolog (INSULIN ASPART),3
-Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) ,3
-Lipitor 4,3
-Insulin N,3
-" Lipitor,",3
-"Norvasc, ",3
-Insulin NPH 37 ,3
- Reg ,3
+nph 30,3
+ec aspirin ,3
+insulin nph (or humulin n?),3
+novolog (insulin aspart),3
+lipitor 4,3
+insulin n,3
+" lipitor,",3
+"norvasc, ",3
+insulin nph 37 ,3
+ reg ,3
 "  lisinopril,",3
 glyburide 5mg tab bid ,3
- Atenolol 25 mg po qd,3
- Aspirin ,3
-zocor.,3
+ atenolol 25 mg po qd,3
  lisinopril t,3
  atorvastatin ,3
 "verapamil,",3
- verapamil,3
-Aspirin (ACETYLSALICYLIC ACID),3
-Aspirin (ACETYLSALICYLIC Acid),3
- metformin,3
-ASA (ACETYLSALICYLIC ACID),3
-15u NPH,3
-Asa (ACETYLSALICYLIC ACID) ,3
-Insulin Glargine (Lantus),3
-Metoprolol Succinate Extended Release (Toprol Xl ),3
- LISINOPRIL  ,3
-NPH 40 units ,3
-NPH 40 units,3
-Humalog (INSULIN Lispro),3
+15u nph,3
+insulin glargine (lantus),3
+metoprolol succinate extended release (toprol xl ),3
+nph 40 units ,3
+nph 40 units,3
 "labetalol,",3
-Humalog Insulin (INSULIN Lispro),3
-Insulin Nph ,3
-On insulin,3
-NPH 22 units,3
-ENALAPRIL ,3
-Enteric COATED ASA ,3
+humalog insulin (insulin lispro),3
+on insulin,3
+nph 22 units,3
+enteric coated asa ,3
 metformin hydrochloride ,3
-PRAVASTATIN),3
- METFORMIN ,3
-Lantus 40 qpm,3
-Pravachol (PRAVASTATIN),3
-Amlodipine (Norvasc ),3
-ATORVASTATIN (LIPITOR ) ,3
-ACETYLSALICYLIC ACID (ASPIRIN)   81 MG PO  Daily   ,3
-METOPROLOL TARTRATE (LOPRESSOR ) ,3
-Atorvastatin (Lipitor ) ,3
-75Atorvastatin,3
-10ASA,3
- Lisinopril  ,3
-Lisinopril  40 MG PO QD,3
-Simvastatin  80 MG PO QD,3
-Aspirin Enteric Coated (Enteric Coated Aspirin)  81 MG PO QD,3
-Aspirin Enteric Coated,3
-Labetalol Hcl  200 MG PO BID,3
-diuretics,3
-Bumex,3
+pravastatin),3
+lantus 40 qpm,3
+pravachol (pravastatin),3
+amlodipine (norvasc ),3
+acetylsalicylic acid (aspirin)   81 mg po  daily   ,3
+metoprolol tartrate (lopressor ) ,3
+75atorvastatin,3
+10asa,3
+lisinopril  40 mg po qd,3
+simvastatin  80 mg po qd,3
+aspirin enteric coated (enteric coated aspirin)  81 mg po qd,3
+labetalol hcl  200 mg po bid,3
+bumex,3
 spironolactone,3
-insulin and Lantus,3
- Amlodipine,3
-Labetalol HCL ,3
- lovastatin ,3
- metoprolol,3
-Novolin R,3
-TOPROL ,3
- SIMVASTATIN ,3
-ACETYLSALICYLIC ACID (,3
-FENOFIBRATE,3
-AMLODIPINE  10 MG PO QD 5/01/2122,3
-DETEMIR,3
-INSULIN ASPART 70/30 ,3
-METOPROLO,3
-insulin 70/30,3
+insulin and lantus,3
+labetalol hcl ,3
+novolin r,3
+acetylsalicylic acid (,3
+amlodipine  10 mg po qd 5/01/2122,3
+insulin aspart 70/30 ,3
 insulin 70/30u 50u,3
-Metformin Extended Release ,3
-Metformin Extended Release,3
-Insulin Aspart 70/30,3
-Fenofibrate ,3
-NPH/Insulin ,3
-NPH/Insulin Aspart,3
-Humalog insulin,3
+metformin extended release ,3
+metformin extended release,3
+insulin aspart 70/30,3
+nph/insulin ,3
+nph/insulin aspart,3
 back on his medications,3
-PRAVASTATIN ,3
- PRAVASTATIN,3
-HUMALOG,3
-  NPH HUMULIN INSULIN ,3
-HUMALOG INSULIN,3
-Bayer ASA ,3
- Glucophage,3
-Lispro insulin,3
+  nph humulin insulin ,3
+bayer asa ,3
 add atenolol,3
-Norvasc (AMLODIPINE,3
-Glucotrol XL (GLIPIZIDE XL),3
-Cozaar (LOSARTAN),3
-  Lipitor ,3
-Glucotrol Xl,3
-      Glucotrol ,3
-Glucotrol Xl (GLIPIZIDE Xl) ,3
-ATENOLOL   100 MG ,3
- Hyzaar,3
-Atorvastatin (Lipitor ) 40 MG PO QD,3
-Metoprolol Tartrate (Lopressor) ,3
-Clopidogrel (Plavix ),3
-Insulin Regular Inj,3
-Insulin Regular ,3
-Metoprolol Tartrate (Lopressor ),3
-Verapamil Hcl  120 MG PO TID ,3
- Verapamil,3
-Insulin Glargine (Lantus )  25 UNITS SC QAM,3
-Metoprolol Tartrate   50MG TABLET take 1 Tablet(s) PO BID ,3
-     Metoprolol ,3
-Lisinopril 5 MG (5MG TABLET take 1) PO QD ,3
-Lipitor 20 mg,3
-Lipitor (ATORVASTATIN) 20MG TABLET PO QHS ,3
-Hydrochlorothiazide 25 MG PO QD ,3
-Metoprolol TARTRATE 100 MG (100MG TABLET take 1) PO QD ,3
-Lipitor 80 mg,3
-Lisinopril to 40 mg QD,3
-Metformin 850 mg,3
-Avandia 4 mg QD,3
-Avandia (ROSIGLITAZONE,3
-Metoprolol 100 mg BID,3
-LISINOPRIL 20MG 1 Tablet(s) PO QD,3
-ECASA (ASPIRIN ENTERIC COATED) 81MG 1 Tablet(s) PO QD,3
-GLUCOPHAGE (METFORMIN) 850MG 1 Tablet(s) PO BID,3
-GLYBURIDE 1.25MG 1 Tablet(s) PO QD,3
-ZOCOR (SIMVASTATIN),3
- HYDROCHLOROTHIAZIDE ,3
+norvasc (amlodipine,3
+cozaar (losartan),3
+  lipitor ,3
+      glucotrol ,3
+glucotrol xl (glipizide xl) ,3
+atenolol   100 mg ,3
+ hyzaar,3
+atorvastatin (lipitor ) 40 mg po qd,3
+metoprolol tartrate (lopressor) ,3
+clopidogrel (plavix ),3
+insulin regular inj,3
+metoprolol tartrate (lopressor ),3
+verapamil hcl  120 mg po tid ,3
+insulin glargine (lantus )  25 units sc qam,3
+metoprolol tartrate   50mg tablet take 1 tablet(s) po bid ,3
+     metoprolol ,3
+lisinopril 5 mg (5mg tablet take 1) po qd ,3
+lipitor 20 mg,3
+lipitor (atorvastatin) 20mg tablet po qhs ,3
+hydrochlorothiazide 25 mg po qd ,3
+metoprolol tartrate 100 mg (100mg tablet take 1) po qd ,3
+lipitor 80 mg,3
+lisinopril to 40 mg qd,3
+avandia 4 mg qd,3
+avandia (rosiglitazone,3
+metoprolol 100 mg bid,3
+lisinopril 20mg 1 tablet(s) po qd,3
+ecasa (aspirin enteric coated) 81mg 1 tablet(s) po qd,3
+glucophage (metformin) 850mg 1 tablet(s) po bid,3
+glyburide 1.25mg 1 tablet(s) po qd,3
 adalat.,3
-"Aspirin,",3
- Lovastatin ,3
- Regular Insulin,3
-"Enalapril Maleate 20MG, 1 Tablet(s) PO QD",3
-"Metoprolol Tartrate 50MG, 1 Tablet(s) PO BID ",3
-"Enalapril Maleate    20MG,  1 Tablet(s)  PO QD",3
-"Metoprolol Tartrate    50MG,  1 Tablet(s)  PO BID ",3
-Asa (ACETYLSALICYLIC Acid) ,3
- Asa,3
+"enalapril maleate 20mg, 1 tablet(s) po qd",3
+"metoprolol tartrate 50mg, 1 tablet(s) po bid ",3
+"enalapril maleate    20mg,  1 tablet(s)  po qd",3
+"metoprolol tartrate    50mg,  1 tablet(s)  po bid ",3
 dyzide,3
- ATENOLOL  ,3
-Dyazide  (TRIAMTERENE 37.5 Mg/hctz 25 Mg) ,3
-Lipitor (ATORVASTATIN)   10MG TABLET take 1 Tablet(s) PO QD  ,3
-Glucophage (METFORMIN)   500MG TABLET  PO BID,3
-  Plavix ,3
-HYDROCHLOROTHIAZIDE 2,3
- clopidogrel ,3
-lisinopril. ,3
+ atenolol  ,3
+dyazide  (triamterene 37.5 mg/hctz 25 mg) ,3
+lipitor (atorvastatin)   10mg tablet take 1 tablet(s) po qd  ,3
+glucophage (metformin)   500mg tablet  po bid,3
+  plavix ,3
+hydrochlorothiazide 2,3
 nitrates ,3
- SL NTG,3
+ sl ntg,3
  insluin,3
 aspirin.,3
-NPH insulin 30 units,3
- NPH insulin,3
+nph insulin 30 units,3
+ nph insulin,3
 lisnopril ,3
-asa ,3
-avandia ,3
-Sliding scale insulin,3
-      Asa ,3
- Lantus,3
-Lisinopril. ,3
+      asa ,3
  lisin ,3
- lopressor ,3
- Acetylsalicylic Acid (Aspirin,3
-Glucophage (metformin),3
-    ASA ,3
- Pravachol.,3
-10u R,3
-AceI,3
-LISINOPRIL   ,3
-ACETYLSALICYLIC ACID ,3
-AMLODIPINE ,3
-LABETALOL HCL,3
- Glucotrol ,3
-Glucotrol XL ,3
-Gluctrol XL,3
- Zocor (SIMVASTATIN),3
+ acetylsalicylic acid (aspirin,3
+ pravachol.,3
+10u r,3
+lisinopril   ,3
+ glucotrol ,3
+glucotrol xl ,3
+gluctrol xl,3
+ zocor (simvastatin),3
 glucotrol;,3
 glucotrol.,3
-Zocor (SIMVASTATIN,3
-METFORMIN 500 MG,3
-HYDROCHLOROTHIAZIDE ,3
-Glucotrol Xl (GLIPIZIDE Xl),3
- toprol ,3
-"lipitor,",3
+zocor (simvastatin,3
 medstoprol,3
-Lisinopril 10 mg po qd. ,3
-Atenolol 25 mg qd,3
+lisinopril 10 mg po qd. ,3
 "lisinopril, 20mg q.d",3
 atenolol 25mg q.d,3
 lisinopril 20mg q.d,3
-HCTZ 25 q.d,3
+hctz 25 q.d,3
 atenolol 100q.d,3
 lisinopril 40 q.d.,3
 lisinopril 40 mg q.d.,3
-Lipitor q.d.,3
-Lipitor 10 q.d.,3
+lipitor q.d.,3
+lipitor 10 q.d.,3
 atenolol 75 q.d.,3
 atenolol 75 mg q.d,3
-lisinopril 20 mg,3
 enalapril 10 mg,3
-enalapril ,3
-Humulin 70/35 units,3
-Humulin 70/35,3
-Lopid 600 mg daily,3
+humulin 70/35 units,3
+humulin 70/35,3
+lopid 600 mg daily,3
 losartan 50 mg,3
-Lisinopril 40mg daily,3
-Lipitor 20mg qhs,3
-ASA 81mg daily,3
-Gemfibrozil 300mg bid,3
-Toprol XL 50mg daily,3
-Lisinopril 40 MG PO QD,3
-Simvastatin 20 MG ,3
-Acetylsalicylic Acid 81 MG,3
-Amlodipine 10 MG,3
-Insulin L,3
+lisinopril 40mg daily,3
+lipitor 20mg qhs,3
+asa 81mg daily,3
+gemfibrozil 300mg bid,3
+toprol xl 50mg daily,3
+lisinopril 40 mg po qd,3
+simvastatin 20 mg ,3
+acetylsalicylic acid 81 mg,3
+amlodipine 10 mg,3
+insulin l,3
 patient on 70/30 at home,3
 aspart,3
-Lisinopril 40 mg p.o. daily,3
-Simvastatin 20 mg p.o. bedtime,3
-Aspirin 81 mg p.o. daily.,3
-Amlodipine 10 mg p.o. daily.,3
-Insulin Lispro mix 75/25 12 units,3
-Insulin Lispro mix 75/25 25 units,3
- Insulin Lispro mix 75/25,3
+lisinopril 40 mg p.o. daily,3
+simvastatin 20 mg p.o. bedtime,3
+aspirin 81 mg p.o. daily.,3
+amlodipine 10 mg p.o. daily.,3
+insulin lispro mix 75/25 12 units,3
+insulin lispro mix 75/25 25 units,3
+ insulin lispro mix 75/25,3
 etoprolol ,3
-Metoprolol succinate extended release 150 mg p.o. daily.,3
+metoprolol succinate extended release 150 mg p.o. daily.,3
 aspirin 81mg qd,3
   aspirin,3
 metformin 850mg bid,3
 fluvastatin 20 mg daily,3
-Aspirin 81 mg p.o. daily,3
-Glucophage 850 mg b.i.d.,3
-LISINOPRIL   10MG TABLET take 1 Tablet(s) PO QD,3
-METFORMIN   850 MG (850MG TABLET take 1) PO TID,3
-Dyazide  (TRIAMTERENE 37.5 Mg/hydrochlorthiazide 25 Mg),3
-GLYBURIDE   5 MG (5MG TABLET take 1) PO BID  ,3
-ATENOLOL   25MG TABLET take 1 Tablet(s) PO QD ,3
-Lisinopril 10MG TABLET take 1 Tablet(s) PO QD,3
-Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD,3
-Metformin 850 MG (850MG TABLET take 1) PO TID,3
-Dyazide (,3
-Dyazide (TRIAMTERENE 37.5 MG/HYDROCHLORTHIAZIDE 25 MG) 1 CAPSULE PO QD,3
-Glyburide 15 MG (5MG TABLET take 3) PO QD,3
-Atenolol 25MG TABLET take 1 Tablet(s) PO QD,3
-Asa 325 qd,3
-Verapamil 40 tid,3
-Glyburide 5 qd,3
-Aspirin 325 QD,3
-Verapamil 60mg TID,3
-Glybyride ,3
-Glybyride 5mg QD,3
-Lisinopril 10 MG PO QD,3
-Pravastatin 10mg daily,3
-Verapamil Hcl SR 180 MG PO daily,3
+aspirin 81 mg p.o. daily,3
+glucophage 850 mg b.i.d.,3
+lisinopril   10mg tablet take 1 tablet(s) po qd,3
+metformin   850 mg (850mg tablet take 1) po tid,3
+dyazide  (triamterene 37.5 mg/hydrochlorthiazide 25 mg),3
+glyburide   5 mg (5mg tablet take 1) po bid  ,3
+atenolol   25mg tablet take 1 tablet(s) po qd ,3
+lisinopril 10mg tablet take 1 tablet(s) po qd,3
+lipitor (atorvastatin) 10mg tablet take 1 tablet(s) po qd,3
+metformin 850 mg (850mg tablet take 1) po tid,3
+dyazide (,3
+dyazide (triamterene 37.5 mg/hydrochlorthiazide 25 mg) 1 capsule po qd,3
+glyburide 15 mg (5mg tablet take 3) po qd,3
+atenolol 25mg tablet take 1 tablet(s) po qd,3
+asa 325 qd,3
+verapamil 40 tid,3
+glyburide 5 qd,3
+aspirin 325 qd,3
+verapamil 60mg tid,3
+glybyride ,3
+glybyride 5mg qd,3
+lisinopril 10 mg po qd,3
+pravastatin 10mg daily,3
+verapamil hcl sr 180 mg po daily,3
 lipitor 20 qd,3
 glucophage 1000 bid,3
 toprol xl 100 qd,3
 avalide,3
 avalide 300/12.5 qd,3
-Lipitor 20 mg p.o.,3
+lipitor 20 mg p.o.,3
 aspirin 81 mg p.o.,3
-Toprol-XL 125 mg p.o,3
-Avapro 300 mg p.o,3
+toprol-xl 125 mg p.o,3
+avapro 300 mg p.o,3
 lipitor 40,3
-.Increase glargine ,3
+.increase glargine ,3
 toprol 200,3
-Lisinopril 20 MG,3
 metformin 850 ,3
 metformin 850 mg daily,3
-Labetalol Hcl 300 MG,3
-Crestor 20 mg a day,3
+labetalol hcl 300 mg,3
+crestor 20 mg a day,3
 aspirin 81 mg a day,3
-Plavix 75 mg a day,3
+plavix 75 mg a day,3
 nifedipine 90 mg a day,3
-Zetia 10 mg a day,3
+zetia 10 mg a day,3
 metoprolol 25 mg a day,3
-GLYBURIDE   5MG  1 Tablet(s) PO QD ,3
-COZAAR ,3
-COZAAR (LOSARTAN)   50MG  1 Tablet(s) PO QD  ,3
-Glyburide 5 mg PO QD,3
-cozaar 50 mg BID,3
-Cozaar 50 mg PO BID (only taking 50 QD),3
-HCTZ 25 mg PO QD,3
-HCTZ 25 mg QD.,3
-"GLYBURIDE 5MG, 1 Tablet(s) PO QD ",3
-"Cozaar (LOSARTAN) 50MG, 1 Tablet(s) PO bid",3
-"Aspirin (CHILDRENS) (ACETYLSALICYLIC Aci... 81MG, 1 Tablet(s) PO QD",3
-"GLYBURIDE 5MG, 1 Tablet(s) PO QD",3
-"Cozaar (LOSARTAN) 50MG, 2 Tablet(s) PO QD",3
-"ATENOLOL 50MG, 1 Tablet(s) PO QD x 30 day(s)",3
-Atenolol to 50 mg QD,3
-"Asa (ACETYLSALICYLIC Acid) 325MG, 1 Tablet(s) PO QD",3
-"Cozaar (LOSARTAN) 100MG, 1 Tablet(s) PO QD",3
-SIMVASTATIN 20 MG QHS,3
-ASA 325MG QD,3
-Hctz 25 MG QD ,3
-Insulin 70/30 80 qam 70 qpm (recently increased) ,3
-Losartan 100MG QD ,3
-Asa (ACETYLSALICYLIC ACID) 325MG TABLET take 1 Tablet(s) PO QD ,3
-Humalog (INSULIN LISPRO),3
- ATENOLOL ,3
-ASA       PO ,3
-ASA  ,3
-ATENOLOL   25 MG PO QD,3
+glyburide   5mg  1 tablet(s) po qd ,3
+cozaar (losartan)   50mg  1 tablet(s) po qd  ,3
+glyburide 5 mg po qd,3
+cozaar 50 mg bid,3
+cozaar 50 mg po bid (only taking 50 qd),3
+hctz 25 mg po qd,3
+hctz 25 mg qd.,3
+"glyburide 5mg, 1 tablet(s) po qd ",3
+"cozaar (losartan) 50mg, 1 tablet(s) po bid",3
+"aspirin (childrens) (acetylsalicylic aci... 81mg, 1 tablet(s) po qd",3
+"glyburide 5mg, 1 tablet(s) po qd",3
+"cozaar (losartan) 50mg, 2 tablet(s) po qd",3
+"atenolol 50mg, 1 tablet(s) po qd x 30 day(s)",3
+atenolol to 50 mg qd,3
+"asa (acetylsalicylic acid) 325mg, 1 tablet(s) po qd",3
+"cozaar (losartan) 100mg, 1 tablet(s) po qd",3
+simvastatin 20 mg qhs,3
+hctz 25 mg qd ,3
+insulin 70/30 80 qam 70 qpm (recently increased) ,3
+losartan 100mg qd ,3
+asa (acetylsalicylic acid) 325mg tablet take 1 tablet(s) po qd ,3
+asa       po ,3
+atenolol   25 mg po qd,3
 vasotec 20 b.i.d.,3
 chlorpropamide 250 b.i.d.,3
-"HYDROCHLOROTHIAZIDE 25MG, 1 Tablet(s) PO QD",3
-"Lopid (GEMFIBROZIL) 600MG, 1 Tablet(s) PO QPM x 30 day(s)",3
-"Lopressor (METOPROLOL Tartrate) 12.5MG, 1 Tablet(s) PO BID x 30 day(s)",3
-DIOVAN 80 mg PO QD,3
-Metformin 500 MG,3
-Metformin 500mg bid,3
-Bisoprolol 5mg qd,3
-"Bisoprolol 5mg qd, which replaced Lopressor ",3
-Diovan 160mg,3
-Zestril 10mg qd,3
+"hydrochlorothiazide 25mg, 1 tablet(s) po qd",3
+"lopid (gemfibrozil) 600mg, 1 tablet(s) po qpm x 30 day(s)",3
+"lopressor (metoprolol tartrate) 12.5mg, 1 tablet(s) po bid x 30 day(s)",3
+diovan 80 mg po qd,3
+bisoprolol 5mg qd,3
+"bisoprolol 5mg qd, which replaced lopressor ",3
+diovan 160mg,3
+zestril 10mg qd,3
 atenolol 25mg po qd,3
 atenolol 25qd,3
-Zestril 40mg po daily,3
-Lipitor 20mg po daily-,3
-Glucophage 1000 mg po bid,3
-Lantus SoloStar Pen 10 units sc at bedtime,3
+zestril 40mg po daily,3
+lipitor 20mg po daily-,3
+glucophage 1000 mg po bid,3
+lantus solostar pen 10 units sc at bedtime,3
 insulin sliding scale for coverage,3
 atenolol 50mg po daily,3
-PRINIVIL (LISINOPRIL)  ,3
- lopressor,3
- Prinivil,3
-Prinivil (LISINOPRIL) ,3
-Glucovance (GLYBURIDE/METFORMIN),3
-Cardizem Cd (DILTIAZEM Cd (24 Hr Caps)),3
-Glucovance (Glipizide 5mg/Metformin 500mg) ,3
-Prinivil (Lisinopril)  40 MG PO BID,3
-Hydralazine Hcl  50 MG PO QID,3
-Simvastatin (Zocor)   80 MG PO QHS,3
-Acetylsalicylic Acid (Aspirin)   81 MG PO DAILY,3
-Amlodipine (Norvasc )  12.5 MG PO DAILY,3
-Insulin Regular Inj  Sliding scale SC ,3
-Labetalol Hcl  300 MG PO BID,3
- hydrochlorothiazide ,3
+prinivil (lisinopril)  ,3
+ prinivil,3
+prinivil (lisinopril) ,3
+glucovance (glyburide/metformin),3
+cardizem cd (diltiazem cd (24 hr caps)),3
+glucovance (glipizide 5mg/metformin 500mg) ,3
+prinivil (lisinopril)  40 mg po bid,3
+hydralazine hcl  50 mg po qid,3
+simvastatin (zocor)   80 mg po qhs,3
+acetylsalicylic acid (aspirin)   81 mg po daily,3
+amlodipine (norvasc )  12.5 mg po daily,3
+insulin regular inj  sliding scale sc ,3
+labetalol hcl  300 mg po bid,3
 lisinopril 45mg,3
 simvastatin 20mg qpm,3
 asa 81mg ,3
 metoprolol 25mg bid,3
-metformin 500mg bid,3
-hctz 25mg,3
-insulin NPH 18units qam,3
-insulin regular SS qam/qsupper,3
-Lisinopril 2.5mg QD,3
- Simvastatin ,3
-Simvastatin 10mg QHS ,3
-Plavix 75mg QD,3
-Metformin 850mg tid,3
-Glyburide 2.5mg QD,3
-Atenolol 25mg QD,3
-lisinopril 2.5 mg QD,3
-lisinopril 2.5 mg   QD,3
-Zocor 10 mg QHS,3
-Zocor 10 mg   QHS,3
-aspirin 325 mg QD,3
- aspirin 325 mg   QD,3
-metformin hydrochloride 850 mg TID,3
-metformin hydrochloride 850 mg   TID,3
- metformin ,3
-glyburide 2.5 mg QD,3
-glyburide 2.5 mg   QD,3
-atenolol 25 mg QD,3
-atenolol 25 mg   QD,3
-Lisinopril 2.5 mg,3
-Zocor 10 mg,3
-ASA 81 mg,3
-metformin 850 mg,3
+insulin nph 18units qam,3
+insulin regular ss qam/qsupper,3
+lisinopril 2.5mg qd,3
+simvastatin 10mg qhs ,3
+plavix 75mg qd,3
+metformin 850mg tid,3
+glyburide 2.5mg qd,3
+atenolol 25mg qd,3
+lisinopril 2.5 mg qd,3
+lisinopril 2.5 mg   qd,3
+zocor 10 mg qhs,3
+zocor 10 mg   qhs,3
+aspirin 325 mg qd,3
+ aspirin 325 mg   qd,3
+metformin hydrochloride 850 mg tid,3
+metformin hydrochloride 850 mg   tid,3
+glyburide 2.5 mg   qd,3
+atenolol 25 mg   qd,3
+lisinopril 2.5 mg,3
+zocor 10 mg,3
+asa 81 mg,3
 glyburide 2.5 mg,3
 atenolol 25 mg,3
 glucophage 500 mg qd,3
-GLUCOPHAGE (METFORMIN) ,3
-ZESTORETIC ,3
+zestoretic ,3
 zestoretic 20/25 qd,3
- LIPITOR (ATORVASTATIN) ,3
-ASPIRIN (ACETYLSALICYLIC ACID),3
-glucophage XR 500 mg qd,3
-GLUCOPHAGE XR (METFORMIN XR) ,3
+ lipitor (atorvastatin) ,3
+glucophage xr 500 mg qd,3
+glucophage xr (metformin xr) ,3
 zestoretic 20/25 bid,3
- MICRONASE (GLYBURIDE) ,3
-LIPITOR (ATORVASTATIN)  40MG PO QD,3
-INSULIN NPH HUMAN  25UNITS SC QHS,3
+lipitor (atorvastatin)  40mg po qd,3
+insulin nph human  25units sc qhs,3
 glyburide 10 mg bid,3
-Lisinopril  20 MG PO QD,3
-Atorvastatin (Lipitor)   20 MG PO QD,3
-Acetylsalicylic Acid (Aspirin)   81 MG PO QD,3
-Amlodipine (Norvasc)   5 MG PO QD,3
- Insulin Nph,3
-Atenolol  100 MG PO QD,3
-Simvastatin  20 MG PO QD,3
-Acetylsalicylic Acid (Aspirin)  325 MG PO ,3
-Clopidogrel (Plavix)  75 MG PO QD,3
-Metformin  500 MG PO TID,3
-Glipizide  2.5 MG PO QD,3
-Pioglitazone ,3
-Pioglitazone (Actos)  30 MG PO QD,3
-Atenolol  50 MG PO QD,3
-Monopril 40 mg q.d,3
-Dyazide 1 q.d.,3
-Glynase 3 mg q.a.m,3
-Glucophage 500 mg q.p.m,3
-Lipitor 10mg qhs,3
-Glyburide 2.5 mg qd,3
-Cozaar 25mg qd,3
-Lipitor (ATORVASTATIN) 20 MG (20MG TABLET take 1) PO QD,3
-Asa (CHILDRENS) 81MG PO QD ,3
-Glyburide 2.5 MG (5MG TABLET take 1) PO QD  ,3
-Cozaar (LOSARTAN) 25 MG (25MG TABLET take 1) PO BID,3
-ZESTRIL (LISINOPRIL)   5MG  1 Tablet(s) PO QD  ,3
-ZOCOR (SIMVASTATIN)   20MG  1 Tablet(s) PO QHS ,3
-EC ASA (ASPIRIN ENTERIC COATED)   325MG  1 Tablet(s) PO QD,3
-PLAVIX (CLOPIDOGREL) 75 MG     PO QD ,3
-GLUCOPHAGE (METFORMIN)   850MG  1 Tablet(s) PO qam  ,3
-GLUCOPHAGE (METFORMIN)   500MG  1 Tablet(s) PO qpm  ,3
-NORVASC (AMLODIPINE)   10MG  1 Tablet(s) PO QHS  ,3
+lisinopril  20 mg po qd,3
+atorvastatin (lipitor)   20 mg po qd,3
+acetylsalicylic acid (aspirin)   81 mg po qd,3
+amlodipine (norvasc)   5 mg po qd,3
+atenolol  100 mg po qd,3
+simvastatin  20 mg po qd,3
+acetylsalicylic acid (aspirin)  325 mg po ,3
+clopidogrel (plavix)  75 mg po qd,3
+metformin  500 mg po tid,3
+glipizide  2.5 mg po qd,3
+pioglitazone (actos)  30 mg po qd,3
+atenolol  50 mg po qd,3
+monopril 40 mg q.d,3
+dyazide 1 q.d.,3
+glynase 3 mg q.a.m,3
+glucophage 500 mg q.p.m,3
+cozaar 25mg qd,3
+lipitor (atorvastatin) 20 mg (20mg tablet take 1) po qd,3
+asa (childrens) 81mg po qd ,3
+glyburide 2.5 mg (5mg tablet take 1) po qd  ,3
+cozaar (losartan) 25 mg (25mg tablet take 1) po bid,3
+zestril (lisinopril)   5mg  1 tablet(s) po qd  ,3
+zocor (simvastatin)   20mg  1 tablet(s) po qhs ,3
+ec asa (aspirin enteric coated)   325mg  1 tablet(s) po qd,3
+plavix (clopidogrel) 75 mg     po qd ,3
+glucophage (metformin)   850mg  1 tablet(s) po qam  ,3
+glucophage (metformin)   500mg  1 tablet(s) po qpm  ,3
+norvasc (amlodipine)   10mg  1 tablet(s) po qhs  ,3
 rosiglitazone,3
-LOPRESSOR (METOPROLOL TARTRATE)   50MG  1 Tablet(s) PO TID,3
-Zocor 20 qd,3
-ASA 325mg QD,3
+lopressor (metoprolol tartrate)   50mg  1 tablet(s) po tid,3
+zocor 20 qd,3
 norvasc 10,3
- norvasc,3
-Diltiazem 60mg qd,3
-Lipitor 10mg qd ,3
- Metoprolol 50mg qd,3
+diltiazem 60mg qd,3
+lipitor 10mg qd ,3
+ metoprolol 50mg qd,3
  requiring insulin since ,3
-Zestril 40mg qd,3
-Cozaar 50qd,3
+zestril 40mg qd,3
+cozaar 50qd,3
 simvastatin 20 mg po qhs,3
-Aspirin 81 mg po daily,3
-Lantus 12 u qhs,3
-Humalog scale ac,3
-Cozaar 50 mg po BID,3
-Simvastatin 20 MG po q hs,3
-Aspirin 81 MG PO QD ,3
-Humalog SS q AC (approx 20 units),3
-Lantus 15 UNITS SC QHS ,3
-Lopressor  50 MG  PO BID ,3
-HCTZ 25 mg daily,3
+aspirin 81 mg po daily,3
+lantus 12 u qhs,3
+humalog scale ac,3
+cozaar 50 mg po bid,3
+simvastatin 20 mg po q hs,3
+aspirin 81 mg po qd ,3
+humalog ss q ac (approx 20 units),3
+lantus 15 units sc qhs ,3
+lopressor  50 mg  po bid ,3
+hctz 25 mg daily,3
 gemfibrozi,3
-QDNiacin,3
-Zestril.,3
+qdniacin,3
+zestril.,3
 hydrochlorothiazide/lisinopril,3
 hydrochlorothiazide/lisinopril 25/20,3
 hydrochlorothiazide/lisinopril ,3
-Lisinopril/hydrochlorothiazide 20MG/25MG,3
+lisinopril/hydrochlorothiazide 20mg/25mg,3
 lantus/novolog,3
-  Zocor ,3
-  ASA,3
-  Imdur,3
- Nitroquick,3
-Nitroquick 0.3mg (NITROGLYCERIN 1/200 (0.3 Mg)),3
- Insulin Regular Human,3
-  Toprol ,3
-Toprol Xl (METOPROLOL Succinate Extended Release),3
- METFORMIN,3
-Rezulin ,3
-Rezulin,3
-70/30 of Humulin,3
-"70/30 of Humulin,",3
+  zocor ,3
+  asa,3
+  imdur,3
+ nitroquick,3
+nitroquick 0.3mg (nitroglycerin 1/200 (0.3 mg)),3
+ insulin regular human,3
+  toprol ,3
+toprol xl (metoprolol succinate extended release),3
+rezulin ,3
+rezulin,3
+70/30 of humulin,3
+"70/30 of humulin,",3
  glipizide,3
-Actos ,3
-Nph,3
-kept her on Glyburide,3
-NPH HUMULIN INSULIN (INSULIN NPH HUMAN)  15 SC QAM,3
-Nph HUMULIN INSULIN,3
+actos ,3
+kept her on glyburide,3
+nph humulin insulin (insulin nph human)  15 sc qam,3
 insulin sliding scale,3
-Reg sliding scale,3
-Regular sliding scale,3
-Insulin REGULAR HUMAN SC,3
-NPH 70/30,3
-Insulin 70/30 NPH/Regular 50U BID,3
-Insulin 70/30 HUMAN 70-30,3
-Insulin 70/30 HUMAN 70-30 U/ML,3
+reg sliding scale,3
+regular sliding scale,3
+insulin regular human sc,3
+nph 70/30,3
+insulin 70/30 nph/regular 50u bid,3
+insulin 70/30 human 70-30,3
+insulin 70/30 human 70-30 u/ml,3
 novolog 70/30,3
- Ascorbic Acid  ,3
-Aspirin Buffered,3
-Verapamil Sustained Release,3
-Novolog Mix 70/30,3
-Nitroglycerin patch,3
+ ascorbic acid  ,3
+aspirin buffered,3
+verapamil sustained release,3
+novolog mix 70/30,3
+nitroglycerin patch,3
 "70/30 insulin,",3
-70/30 NovoLog,3
-lispro insulin,3
-Metoprolol succinate,3
-Insulin NPH 20 u qam,3
- Insulin regular 10 u qpm,3
-IV lopressor,2
-Hold aspirin,2
+insulin nph 20 u qam,3
+ insulin regular 10 u qpm,3
+hold aspirin,2
 nitro ,2
 d/c glyburide,2
- Isosorbide dinitrate ,2
-w/ holding Avandia and metformin. ,2
-ISDN,2
-start Statin,2
+w/ holding avandia and metformin. ,2
+isdn,2
+start statin,2
 nitroglycerin paste,2
-SL nitro,2
+sl nitro,2
 add hydrochlorothiazide ,2
-sl NTG,2
-Baby aspirin.,2
-Insulin SS coverage,2
-Nitrodur,2
+baby aspirin.,2
+insulin ss coverage,2
 sublingual nitroglycerin ,2
-Statin changed to Zetia,2
-Ticlid,2
-ROSUVASTATIN,2
- TNG,2
+statin changed to zetia,2
+ticlid,2
+ tng,2
 beta   blocker,2
-Dilatrate-SR,2
-Atenenlol,2
+dilatrate-sr,2
+atenenlol,2
 nitroglycerin drip,2
- Start metformin,2
-NTG paste,2
-Insulin 6 units,2
-Insulin gtt,2
-IV NTG,2
-d/c'ed HCTZ,2
+ntg paste,2
+insulin 6 units,2
+insulin gtt,2
+labetolol ,2
+iv ntg,2
+d/c'ed hctz,2
 nitro paste,2
-id not receive Toprol today.  monitor BP. give lopressor IV prn for BP tonight. resume Toprol tomorrow.,2
+id not receive toprol today.  monitor bp. give lopressor iv prn for bp tonight. resume toprol tomorrow.,2
 amilodipine,2
 hydrochlorthiazide,2
-Metformin 500 MG PO BID,2
-Hold metformin,2
-Hold HCTZ/ ACE,2
-Regular insulins,2
+metformin 500 mg po bid,2
+hold metformin,2
+hold hctz/ ace,2
 i.  hold antihypertensives (losartan 100mg qd and toprol 100mg qd) in setting of hypotension,2
-adding ASA and lipitor,2
-Nicardipine,2
+adding asa and lipitor,2
 diuretic,2
-Cont plavix,1
+cont plavix,1
 esmolol,1
  put her on ramipril,1
 "stop the hydrochlorothiazide,",1
- Cont. po lopressor,1
+ cont. po lopressor,1
 change to lipitor,1
-Lipitor in the past,1
-stopped her Lescol,1
+lipitor in the past,1
+stopped her lescol,1
 atorvastatin and pravastatin in the past.,1
-add ACE ,1
-CLOPIDOGREL75,1
-ATORVASTATIN80,1
-Hold atenolol for bradycardia,1
+add ace ,1
+clopidogrel75,1
+atorvastatin80,1
+hold atenolol for bradycardia,1
 ran out of his clopidogrel ,1
 d/c metformin,1
-Metformin 500mg PO BID,1
-SSI with meals (convert daily usage to NPH),1
-dilt (30 mg TID),1
-10 U regular insulin now,1
-restarted the Gemfibrozil,1
-had been taking Lipitor,1
- start metformin,1
+metformin 500mg po bid,1
+ssi with meals (convert daily usage to nph),1
+dilt (30 mg tid),1
+10 u regular insulin now,1
+restarted the gemfibrozil,1
+had been taking lipitor,1
  aspirin has been discontinued,1
-try him on Leschol,1
-Leschol,1
-and Lisinopril ,1
-Add Norvasc,1
+try him on leschol,1
+leschol,1
+and lisinopril ,1
+add norvasc,1
 stopped his hydrochlorothiazide,1
-Norv,1
+norv,1
  -sliding scale insulin,1
- -d/c Lisinopril,1
-"Insulin in past,",1
-discontinue hydralazine and Norvasc.,1
-SLNG,1
-METFORMIN W,1
- Change Procardia XL,1
- to Norvasc,1
-Change Procardia XL,1
-metformin D/C,1
-to Norvasc,1
-changed from Cardiazem to Atenolol,1
-TNG prn sublingual ,1
-Enteric Coated Aspirin,1
-Verapamil sr,1
-IV Lopressor,1
-Verapamil SR ,1
-re-start ASA,1
-NTG ,1
+ -d/c lisinopril,1
+"insulin in past,",1
+discontinue hydralazine and norvasc.,1
+slng,1
+metformin w,1
+ change procardia xl,1
+ to norvasc,1
+change procardia xl,1
+metformin d/c,1
+to norvasc,1
+changed from cardiazem to atenolol,1
+tng prn sublingual ,1
+verapamil sr ,1
+re-start asa,1
  glipizid,1
  switched from glyburide,1
-Metformin extended release 500 mg p.o. daily will be initiated,1
-"hydrochlorothiazide appears to be a new medication for her, and therefore I went ahead and discontinued this ",1
+metformin extended release 500 mg p.o. daily will be initiated,1
+"hydrochlorothiazide appears to be a new medication for her, and therefore i went ahead and discontinued this ",1
 started her on extended-release metoprolol,1
-DC Lisinopril,1
+dc lisinopril,1
 start atenolol in a low dose but advised her not to start this for the next few days,1
-Nitro x,1
+nitro x,1
 "lantus, humalog, ",1
 "off lantus, humalog",1
-Hold Metformin precath.,1
- NTG,1
+hold metformin precath.,1
+ ntg,1
  not to resume the metformin ,1
-"February of this year, when the sulfonylurea was replaced with insulin",1
-IV lopressor ,1
-start Plavix,1
-"asa,",1
-initiation of an ACE inhibitor,1
-an ACE inhibitor,1
-ACE ,1
- Pravachol,1
-add HCTZ,1
+"february of this year, when the sulfonylurea was replaced with insulin",1
+iv lopressor ,1
+start plavix,1
+initiation of an ace inhibitor,1
+an ace inhibitor,1
+ace ,1
+ pravachol,1
+add hctz,1
 d/c hctz,1
 and on an aspirin.,1
 start her today on atenolol,1
-Initiate Lopressor ,1
-NTG x3 ,1
+initiate lopressor ,1
+ntg x3 ,1
 formerly controlled by insulin ,1
  self-  discontinued her lisinopril,1
-switching her over to an insulin   regimen starting with b.i.d. NPH,1
+switching her over to an insulin   regimen starting with b.i.d. nph,1
 restarted her on lipitor,1
- zocor,1
 stopped taking her zocor,1
 prescribed nitroglycerin,1
 add lisinopril,1
 holding metformin,1
-Nitropaste ,1
+nitropaste ,1
  captopril,1
 metformin for 48 hours per cath protocol,1
-prn sl NTG,1
+prn sl ntg,1
 witching her from verapamil 240  mg daily to atenolol 50 mg daily,1
-We also gave her a  prescription for nitroglycerin,1
-"ACE-I,",1
-Add isordil,1
+we also gave her a  prescription for nitroglycerin,1
+"ace-i,",1
+add isordil,1
 "nitroglycerin,",1
-begun on Lipitor ,1
+begun on lipitor ,1
 add captopril,1
- Labetolol ,1
- B blocker as tolerated for elevated BP,1
-10/17/66: HCTZ d/c'd,1
- SLNTG,1
- ACE inhibitor,1
-Discontinue atenolol,1
-stopped Lipitor ,1
- Start captopril,1
-Captoril ,1
-Start Captoril ,1
+ labetolol ,1
+ b blocker as tolerated for elevated bp,1
+10/17/66: hctz d/c'd,1
+ slntg,1
+ ace inhibitor,1
+discontinue atenolol,1
+stopped lipitor ,1
+ start captopril,1
+captoril ,1
+start captoril ,1
 nitoglycerin,1
 suggest a trial of metformin ,1
-along with ACEI ,1
+along with acei ,1
 add metformin,1
 add metformi,1
- IV nitro,1
-hydrochlorothiazide 12.5 mg 1 tab po QD Start: 6/12/2070 End: 01/13/2072 - Inactivated,1
-isosorbide mononitrate 60 mg  QAM and 1 half qpm Start: 6/12/2070 End: 01/13/2072 - Inactivated,1
-Plavix 75 mg 1 tab po QD Start: 3/3/2070 End: 01/13/2072 - Inactivated,1
-valsartan 80 mg  QD Start: 4/24/2070 End: 01/13/2072 - Inactivated,1
+ iv nitro,1
+hydrochlorothiazide 12.5 mg 1 tab po qd start: 6/12/2070 end: 01/13/2072 - inactivated,1
+isosorbide mononitrate 60 mg  qam and 1 half qpm start: 6/12/2070 end: 01/13/2072 - inactivated,1
+plavix 75 mg 1 tab po qd start: 3/3/2070 end: 01/13/2072 - inactivated,1
+valsartan 80 mg  qd start: 4/24/2070 end: 01/13/2072 - inactivated,1
  hydrochlorothiazid,1
 simvastin,1
 gemofibrozil,1
-Lantus 55u SC QPM,1
- Aspart 10u SC AC,1
-Aspart SS AC + HS,1
-Hold sotalol,1
+lantus 55u sc qpm,1
+ aspart 10u sc ac,1
+aspart ss ac + hs,1
+hold sotalol,1
 recommending 1 aspirin,1
 a beta-blocker,1
-Holdng ASA,1
-nable to give beta-blockade at the moment due to low BP ,1
+holdng asa,1
+nable to give beta-blockade at the moment due to low bp ,1
 insulin drip,1
 step-down unit on an insulin drip,1
 will have a trial of dyazide,1
 beta blocker held ,1
-REMOVED    - Toprol XL  75 mg PO BID,1
-will use Norvasc ,1
-/C it in favor of NPH,1
-oral agents were stopped and Lantus begun,1
+removed    - toprol xl  75 mg po bid,1
+will use norvasc ,1
+/c it in favor of nph,1
+oral agents were stopped and lantus begun,1
 s/s regular insulin,1
-sl TNG,1
  start atorvastatin,1
- IV Lopressor ,1
-switch to TriCor,1
+ iv lopressor ,1
+switch to tricor,1
  plus amlodipine,1
-Start simvastatin ,1
-Start simvastatin 40mg,1
- lisinopril 5mg qD to captopril 12.5mg TID,1
+start simvastatin ,1
+start simvastatin 40mg,1
+ lisinopril 5mg qd to captopril 12.5mg tid,1
 sublingual nitroglyceri,1
- increasing Carvedilol,1
- Niacin,1
+ increasing carvedilol,1
 started on captopril,1
-start Niaspan,1
-stop Plavix ,1
+start niaspan,1
+stop plavix ,1
 "hold metformin, in case cath required",1
  start him       off on simvastatin,1
 used to use diltiazem,1
  initiate therapy with diltiazem,1
- Statin,1
- Zetia ,1
-been on Captopril earlier,1
-  Will treat with Lipitor,1
-Will use isordil 10 mg po tid while inpatient,1
+ statin,1
+ zetia ,1
+been on captopril earlier,1
+  will treat with lipitor,1
+will use isordil 10 mg po tid while inpatient,1
 add zetia,1
 add plavix,1
-hold Cartia XT and Altace ,1
-Diuretics,1
-a SL TNG,1
-been held as had her Actos,1
- Lipitor had been held,1
+hold cartia xt and altace ,1
+a sl tng,1
+been held as had her actos,1
+ lipitor had been held,1
  glucophage with excellent control- d/c'd 10/91,1
 low dose glucophage,1
  glucophage with excellent control- d/c'd,1
 glucophage with excellent control- d/c'd 10/91 ,1
-try Niaspan,1
-initiate treatment with Tricor,1
+try niaspan,1
+initiate treatment with tricor,1
 initiate lisinopril,1
-Add dyazide,1
- Add dyazide ,1
+add dyazide,1
+ add dyazide ,1
  dyazide,1
  nitroglycerine,1
 patient took a nitro ,1
 "discontinued all beta blockers, ",1
 discontinued all beta blockers,1
-D/Ced his HCTZ ,1
+d/ced his hctz ,1
 insulin scale as needed.,1
-Imdur ER,1
+imdur er,1
  metoprolol succinate,1
  stopped the novolog,1
-Will try Imdur 30 QD,1
-diovan ,1
-discontinued using immediate release Nifedipine,1
- Nitroglycerin ,1
-switched her from Zocor ,1
+will try imdur 30 qd,1
+discontinued using immediate release nifedipine,1
+switched her from zocor ,1
 isosorbide dinitrate   ,1
-Insulin pump    ,1
-" add an ACE inhibitor.  Accordingly, lisinopril 2.5 mg QD was added to her program.",1
+insulin pump    ,1
+" add an ace inhibitor.  accordingly, lisinopril 2.5 mg qd was added to her program.",1
 started her on atenolol,1
-- Avandia  8 mg daily,1
+- avandia  8 mg daily,1
 clopidogrel bisulfate  75 mg daily,1
-Removed - lisinopril ,1
+removed - lisinopril ,1
 started pt on zocor,1
-taken off HCTZ,1
+taken off hctz,1
 treated with beta   blocker ,1
-D/C Metformin at last visit,1
-IV nitroglycerin,1
+d/c metformin at last visit,1
+iv nitroglycerin,1
 not been taking lipitor for several weeks,1
  discontinued isordil recently. ,1
-begin Simvastatin ,1
-Started on trans-   derm nitro,1
+begin simvastatin ,1
+started on trans-   derm nitro,1
 given an aspirin,1
-"cont Lipitor, Atenolol, Lisinopril/HCTZ",1
-"cont Lipitor, Atenolol, Lisinopril/HCTZ ",1
-Humulin 70/30 cut in half to 50 in am and 30 in pm for now.  ,1
-"Restart  Atenolol at 25 qd,",1
-"cont ASA, statin",1
-Cont Lipitor,1
-Cont glucophage ,1
-Cont Zestoretic,1
-Cont ASA,1
-incr in Atenolol,1
-Insulin REGULAR ,1
+"cont lipitor, atenolol, lisinopril/hctz",1
+"cont lipitor, atenolol, lisinopril/hctz ",1
+humulin 70/30 cut in half to 50 in am and 30 in pm for now.  ,1
+"restart  atenolol at 25 qd,",1
+"cont asa, statin",1
+cont lipitor,1
+cont glucophage ,1
+cont zestoretic,1
+cont asa,1
+incr in atenolol,1
 held her aspirin,1
-"held her aspirin and her Imdur,",1
+"held her aspirin and her imdur,",1
 no longer takes the verapamil,1
-Will switch back to Cozaar.,1
-Avandia (ROSIGLITAZONE) ,1
-Ezetimibe And Simvastatin (Vytorin) ,1
-uses NTG rarely,1
+will switch back to cozaar.,1
+avandia (rosiglitazone) ,1
+ezetimibe and simvastatin (vytorin) ,1
+uses ntg rarely,1
 was on zocor,1
-intravenous Lopressor,1
- change to ACE-i given benefits in prevention for both CAD and renal protection  starting with lisinopril 10 d and work up ,1
+intravenous lopressor,1
+ change to ace-i given benefits in prevention for both cad and renal protection  starting with lisinopril 10 d and work up ,1
 holding metformin),1
 metformin),1
-Hold antihypertensive,1
+hold antihypertensive,1
 hold his glyburide ,1
-Plavix was discontinued,1
-atenolol 25mg po bid QTY:180 Refills:3 Start: 3/25/2087 End: 12/31/2092 - Inactivated,1
-Beta blockers,1
-Beta blockers.,1
-SL NG,1
- SL NG,1
-Start captopril,1
+plavix was discontinued,1
+atenolol 25mg po bid qty:180 refills:3 start: 3/25/2087 end: 12/31/2092 - inactivated,1
+beta blockers.,1
+sl ng,1
+ sl ng,1
+start captopril,1
 beta blocker ,1
 nitro drip,1
 "nitro paste,",1
 sublingual   nitroglycerine,1
-IV nitroglycerine drip,1
+iv nitroglycerine drip,1
 start glyburide,1
-Lopressor.,1
+lopressor.,1
 insulin  ,1
-"Lopressor,",1
-nitroglycerine SL,1
-ASA 325,1
+"lopressor,",1
+nitroglycerine sl,1
+asa 325,1
  intravenous nitroglycerin,1
 sliding scale insulin prn,1
-FENOFIBRATE ,1
-Insulin 4 units sc x1 ,1
-ACE (Zestril x1),1
- Insulin SS,1
-Insulin 6 units.,1
-12 units of NPH.,1
- simvastatin ,1
-Insulin gtt protocol,1
-Novolog SS ,1
-Insulin gtt off at present,1
+insulin 4 units sc x1 ,1
+ace (zestril x1),1
+ insulin ss,1
+insulin 6 units.,1
+12 units of nph.,1
+insulin gtt protocol,1
+novolog ss ,1
+insulin gtt off at present,1
 regular insulin gtt protocol,1
- ACE-I (?ramipril),1
-ACE-I (?ramipril) has  been held,1
-NTG sl,1
-"taken off ASA, plavix",1
-"MICU insulin protocol,",1
-o LISINOPRIL (ZESTRIL )  40 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am ,1
-o AMLODIPINE (NORVASC )  5 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am ,1
-o SIMVASTATIN (ZOCOR )  20 MG PO  QHS    Last Dose Given:  10/24/96 at 08:00 am ,1
-o INSULIN NPH HUMAN  10 UNITS SC  QAM BEFORE BREAKFAST    Last Dose Given:  10/24/96 at 08:00 am ,1
-INSULIN REGULAR HUMAN  Sliding Scale  If BS &lt;=    200 give 0 Units ;  For BS from 201  to 250 give 4 Units ;  For BS from 251  to 300 give 6 Units ;  For BS from 301  to 350 give 8 Units ;  For BS from 351  to 400 give 10 Units ;  For BS &gt; 400 give 12 Units and Call House MD ;   SC  QID (AC + HS)    Last Dose Given:  10/24/96 at 12:00 pm ,1
-o CLOPIDOGREL (PLAVIX )  75 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am ,1
-o METOPROLOL SUCCINATE EXTENDED RELEASE (TOPROL XL )  400 MG PO  QD  &lt;DI&gt;   ,1
+ ace-i (?ramipril),1
+ace-i (?ramipril) has  been held,1
+"taken off asa, plavix",1
+"micu insulin protocol,",1
+o lisinopril (zestril )  40 mg po  qd    last dose given:  10/24/96 at 08:00 am ,1
+o amlodipine (norvasc )  5 mg po  qd    last dose given:  10/24/96 at 08:00 am ,1
+o simvastatin (zocor )  20 mg po  qhs    last dose given:  10/24/96 at 08:00 am ,1
+o insulin nph human  10 units sc  qam before breakfast    last dose given:  10/24/96 at 08:00 am ,1
+insulin regular human  sliding scale  if bs &lt;=    200 give 0 units ;  for bs from 201  to 250 give 4 units ;  for bs from 251  to 300 give 6 units ;  for bs from 301  to 350 give 8 units ;  for bs from 351  to 400 give 10 units ;  for bs &gt; 400 give 12 units and call house md ;   sc  qid (ac + hs)    last dose given:  10/24/96 at 12:00 pm ,1
+o clopidogrel (plavix )  75 mg po  qd    last dose given:  10/24/96 at 08:00 am ,1
+o metoprolol succinate extended release (toprol xl )  400 mg po  qd  &lt;di&gt;   ,1
 changing him from lopressor 200 bid to toprol,1
 started him on ramipril 2.5 mg today,1
 switched to atenolol ,1
 switch to rosuvastatin ,1
-rosuvastatin,1
 niacin in the past,1
 switch to prasugrel,1
-restarting ASA,1
+restarting asa,1
  sublingual nitroglycerine,1
 nitroglycerin   tablets,1
  begin lopid ,1
 changes lipitor to lopid.,1
-discontinue her Accupril,1
+discontinue her accupril,1
 lasix,1
-IV insulin infusion,1
-CZI drip,1
-Insulin gtt ,1
-labetolol ,1
-daily ASA,1
+iv insulin infusion,1
+czi drip,1
+insulin gtt ,1
+daily asa,1
 sublingual  nitroglycerin,1
-Aspirin (ACETYLSALICYLIC ACID) ,1
-low-dose Lopressor,1
-"20 mg without significant response, followed by 40  mg ID",1
+low-dose lopressor,1
+"20 mg without significant response, followed by 40  mg id",1
 20 mg,1
-40  mg ID,1
+40  mg id,1
 diltiazem overnight,1
-She should get an oral dose of  diltiazem overnight,1
+she should get an oral dose of  diltiazem overnight,1
 metoprolol dose,1
-Has been off HCTZ,1
+has been off hctz,1
 novulin,1
 novulog,1
 start on a small dose of a beta-blocker,1
  enteric-coated aspirin ,1
 aspirin 81 mg,1
-Labetolol ,1
-Lipitor D/C'd today,1
- Zaroxolyn,1
-Start Lisinopril,1
-stop the Norvasc ,1
-stop her Actos,1
-Hunulin,1
-"Captopril,",1
-Nitros,1
-Atenolol 7,1
- She should continue on BB,1
-labetalol ,1
+lipitor d/c'd today,1
+ zaroxolyn,1
+start lisinopril,1
+stop the norvasc ,1
+stop her actos,1
+hunulin,1
+"captopril,",1
+nitros,1
+atenolol 7,1
+ she should continue on bb,1
 replacing labetalol with metoprolol ,1
-Lantus and Novolog Insulin,1
-"Pravachol was therefore stopped, restarted, and stopped again",1
-Diltiazem ER ,1
-Would start Labetolol,1
-"Glucophage,",1
-Start NPH,1
+lantus and novolog insulin,1
+"pravachol was therefore stopped, restarted, and stopped again",1
+diltiazem er ,1
+would start labetolol,1
+"glucophage,",1
+start nph,1
 but this is also off his lisinopril,1
- Start Lopressor ,1
-Timolol ,1
-Beta blocker drops ,1
-start her on  Glucophage,1
-will start her on  Glucophage,1
+ start lopressor ,1
+timolol ,1
+beta blocker drops ,1
+start her on  glucophage,1
+will start her on  glucophage,1
 stopped amilodipine,1
 increase atenolol to 100,1
-Stop HCTZ,1
+stop hctz,1
 verapimil,1
-Propranolol Hcl (Inderal )  60 MG PO QID,1
-Plavix 75 mg QD,1
-"given some insulin and a Rx for insulin,",1
-does not take HCTZ,1
+propranolol hcl (inderal )  60 mg po qid,1
+plavix 75 mg qd,1
+"given some insulin and a rx for insulin,",1
+does not take hctz,1
 zocor was stopped in hospital,1
 "metformin was d/c'd,",1
 d/c cozaar,1
-Change from ASA to Aggrenox ,1
-70/30 Novolog,1
+change from asa to aggrenox ,1
 change regular insulin sliding scale to humalog ,1
 cholesterol med ,1
 add hctz/lisinopril,1
 hctz/lisinopril,1
-Sitagliptin,1
-Sitagliptin (Januvia),1
-Switch Atenlol to metoprolol ,1
-Discontinue metformin,1
-"Discontinue lisinopril, valsartan",1
-Valsartan (Diovan),1
-start ECASA,1
-Humalog SS,1
- BB,1
-Toprol Xl 2,1
-adding Toprol Xl,1
+sitagliptin (januvia),1
+switch atenlol to metoprolol ,1
+discontinue metformin,1
+"discontinue lisinopril, valsartan",1
+valsartan (diovan),1
+start ecasa,1
+humalog ss,1
+ bb,1
+toprol xl 2,1
+adding toprol xl,1
 begin a course of atorvastatin,1
 lisinopril to 30mg q.d,1
 no longer taking the hydrochlorothiazide ,1
 resume his hctz,1
-10 mg of labetalol IV,1
+10 mg of labetalol iv,1
 100 mg of labetalol p.o,1
  labetalol ,1
 beta blockade,1
  start low-dose beta blockade,1
-atenolol to 25mg BID,1
-Regular insulin ,1
-Give new sliding scale,1
-Unclear when metformin was discontinued.,1
+atenolol to 25mg bid,1
+give new sliding scale,1
+unclear when metformin was discontinued.,1
 glargine,1
-"d/c lisinopril, start Cozaar 50 mg daily",1
-Lisinopril 2,1
+"d/c lisinopril, start cozaar 50 mg daily",1
+lisinopril 2,1
 was on insulin,1
-ASA 325 mg qd recommended,1
-Cozaar dose to 50 bid,1
-"HCTZ 25 mg PO QD (added 9/82, not taking) ",1
-insulin SS,1
-Lipitor rx. ,1
+asa 325 mg qd recommended,1
+cozaar dose to 50 bid,1
+"hctz 25 mg po qd (added 9/82, not taking) ",1
+insulin ss,1
+lipitor rx. ,1
 stopped nifedipine ,1
-nifedipine ,1
-Rx Benicar,1
- Benicar,1
-Stopped cozaar,1
-Zocor (SIMVASTATIN) 20 MG (20MG TABLET take 1) PO QHS x 30 days,1
-Losartan 50 MG (100MG TABLET take .5) PO QD,1
- Hydrochlorothiazide was stopped,1
-Zestril 20mg ,1
-Plavix; Dir: Stopped because of ecchymosis and epistaxis -stop,1
- Plavix;,1
-25 units NPH,1
-transition him to insuline with 25 units NPH ,1
+rx benicar,1
+ benicar,1
+stopped cozaar,1
+zocor (simvastatin) 20 mg (20mg tablet take 1) po qhs x 30 days,1
+losartan 50 mg (100mg tablet take .5) po qd,1
+ hydrochlorothiazide was stopped,1
+zestril 20mg ,1
+plavix; dir: stopped because of ecchymosis and epistaxis -stop,1
+ plavix;,1
+25 units nph,1
+transition him to insuline with 25 units nph ,1
 glucophage was stopped,1
- glucophage,1
 replace atenolol with metoprolol,1
 metformin 850 qd,1
 lopressor 75 bid,1
 zestril 30 qd,1
 self-d/c'd zestril,1
-zestril ,1
 plavix 75 qd,1
-start Lipitor ,1
-Restart Lipitor ,1
-Ntg 1/150 (NITROGLYCERIN 1/150 (0.4 MG)) 1 TAB SL,1
-On Metformin 500 mg BID # 60 and 6 refills. AllMed Insurance covers for it,1
-Not taking Metformin for 1 month,1
+start lipitor ,1
+restart lipitor ,1
+ntg 1/150 (nitroglycerin 1/150 (0.4 mg)) 1 tab sl,1
+on metformin 500 mg bid # 60 and 6 refills. allmed insurance covers for it,1
+not taking metformin for 1 month,1
 switch lisinopril to captopril,1
  hold metformin,1
 dilt,1
  diltiazem ,1
-reinstated the Lipitor ,1
+reinstated the lipitor ,1
 reinstated metformin,1
-"used to be on Lipitor,",1
-DC Actos,1
- Actos,1
-discontinued  Metformin,1
-Triamterene,1
-start her on 5 mg. of Zestril ,1
-"Hold all oral hypoglycemics, start insulin sliding scale.",1
-. Start NPH,1
-switched to Lantus,1
-10U regular,1
- Lipitor was d/c'd at some point,1
+"used to be on lipitor,",1
+dc actos,1
+ actos,1
+discontinued  metformin,1
+triamterene,1
+start her on 5 mg. of zestril ,1
+"hold all oral hypoglycemics, start insulin sliding scale.",1
+. start nph,1
+switched to lantus,1
+10u regular,1
+ lipitor was d/c'd at some point,1
 starting lipitor,1
-starting ASA,1
-and Labetolol,1
-start Nicardipine ,1
+starting asa,1
+and labetolol,1
+start nicardipine ,1

@@ -23,14 +23,14 @@ def parseFunction():
             Question2.question2(row, med_freq_dict, med_category_freq_dict)
 
             """ Question 3 and 4 code """
-            Question3and4.question3and4(row, individual_med_type_dict)
+            Question3and4.question3and4(row, individual_med_type_dict, individual_med_type_count_dict)
 
             """ Question 5 code """
             Question5.question5(row, individual_med_dict)
 
             """ Question 6 code """
             # Call to Function here
-
+            
 def main():
     """ change xml to csv if medication.csv doesn't exist """
     xml_to_csv
