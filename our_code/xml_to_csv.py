@@ -5,7 +5,7 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 
 # print(os.getcwd())
-path = join(os.getcwd(), "../data")
+path = join(os.getcwd(), "../mac_data")
 files = [join(path, f) for f in listdir(path)]
 
 column_names = ["patient_id", "visit_id", "medication_id", "start", "end", "time", "text", "type1", "type2", "comment"]
@@ -55,6 +55,6 @@ def extract(f):
         
     
 """ Create a medication.csv if not exists already """
-if not os.path.exists('medication.csv'):
+if not os.path.exists('medication_mac.csv'):
     [extract(f) for f in files]
-    med_df.to_csv("medication.csv", index=False)
+    med_df.to_csv("medication_mac.csv", index=False)
