@@ -6,9 +6,11 @@ import pandas as pd
 import numpy as np
 from collections import defaultdict 
 
-def csvFunction(med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_dict):
+def csvFunction(med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_type_count_dict, individual_med_dict):
     
-    path = join(os.getcwd(), "../analysis_data")
+    path = join(os.getcwd(), "../analysis_data2")
+    if not os.path.exists(path):
+        os.makedirs(path)
 
     """ Write to csv for question 2 (medicine frequency distribution) """
     column_names = ["med", "frequency"]
