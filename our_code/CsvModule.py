@@ -8,7 +8,7 @@ from collections import defaultdict
 
 def csvFunction(med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_type_count_dict, individual_med_dict):
     
-    path = join(os.getcwd(), "../analysis_data2")
+    path = join(os.getcwd(), "../analysis_data3")
     if not os.path.exists(path):
         os.makedirs(path)
 

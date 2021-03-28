@@ -27,16 +27,16 @@ def extract(f):
         type1=''
         type2=''
         comment=''
-        if each.get('text') is not None: text = each.get('text').lower()
+        if each.get('text') is not None: text = each.get('text').lower().strip()
         else: text = None
 
-        if each.get('type1') is not None: type1 = each.get('type1').lower() 
+        if each.get('type1') is not None: type1 = each.get('type1').lower().strip()
         else: type1 = None
 
-        if each.get('type2') is not None: type2 = each.get('type2').lower() 
+        if each.get('type2') is not None: type2 = each.get('type2').lower().strip() 
         else: type2 = None
 
-        if each.get('comment') is not None: comment = each.get('comment').lower() 
+        if each.get('comment') is not None: comment = each.get('comment').lower().strip() 
         else: comment = None
 
         med_df.loc[len(med_df)] = [

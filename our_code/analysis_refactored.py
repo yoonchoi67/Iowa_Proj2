@@ -22,10 +22,8 @@ def parseFunction():
         reader = list(csv.reader(f))
         
         # skip the header, hence [1:]
-        for i, row in enumerate(reader[1:]):
-            # if i==55: break
-            # print("row ", i+1, "and visit_id = ", row[1])
-            # print("intermerdiate_medicines: ", intermerdiate_medicines)
+        for row in reader:
+            
             """ Looks if medication_id starts with DOC or the first of M after DOC """
             if "M" in row[2] and med_id_has_DOC: med_id_first_M = True
             else: med_id_first_M = False
