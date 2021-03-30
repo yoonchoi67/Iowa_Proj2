@@ -1,0 +1,20 @@
+med_category	frequency	Risk Factor/Diseases				
+beta blocker	2246	"2, 4"				
+statin	2118	3				
+aspirin	2081	2				
+ace inhibitor	1583	"2, 4"				
+insulin	1029	1				
+calcium channel blocker	930	"2, 4"				
+metformin	930	1				
+sulfonylureas	759	1				
+nitrate	607	2				
+diuretic	593	4				
+thienopyridine	576	2				
+arb	481	4				
+thiazolidinedione	185	1				
+fibrate	154	3		Risk Factor / Disease	Frequency of Medicine for each Risk Factor	Frequency of mention in each Risk Factor
+ezetimibe	72	3		Diabetes	2913	2875
+niacin	45	3		CAD	8023	1970
+dpp4 inhibitors	7	1		Hyperlipidemia	2389	1813
+anti diabetes	3	1		Hypertension	5833	3219
+	14399					

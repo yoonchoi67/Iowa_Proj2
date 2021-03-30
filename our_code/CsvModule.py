@@ -52,7 +52,7 @@ def csvFunction(med_freq_dict, med_category_freq_dict, individual_med_type_dict,
         if not os.path.exists(join(path, 'individual_med_dict(q5).csv')):
             med_df.to_csv(join(path, 'individual_med_dict(q5).csv'), index=False)
 
-    """ Write to csv for question 6 """
+    """ Write to csv for question 6a """
     column_names = ["patient_id", "num of visits"]
     med_df = pd.DataFrame(columns=column_names)
     if not os.path.exists(join(path, 'individual_visit_count_dict(q6).csv')):

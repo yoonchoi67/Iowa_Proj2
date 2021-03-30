@@ -1,5 +1,5 @@
 import csv
-import xml_to_csv, Question2a, Question2b, Question3and4, Question5, Question6a, SortModule, PrintModule, CsvModule
+import xml_to_csv, Question2a, Question2b, Question3and4, Question5, Question6a, Question6b, SortModule, PrintModule, CsvModule
 
 """ Question 2a dictionary"""
 med_freq_dict = {}
@@ -62,9 +62,12 @@ def parseFunction():
                 """ Question 3 and 4 code """
                 Question3and4.question3and4(row, individual_med_type_dict, individual_med_type_count_dict)
 
-            """ Question 6 code """
+            """ Question 6a code """
             Question6a.question6a(row, individual_dict, individual_visit_count_dict)
-
+        
+        """ Question 6b code """
+        Question6b.question6b()
+        
 def main():
     """ change xml to csv if medication.csv doesn't exist """
     # xml_to_csv
