@@ -1,4 +1,5 @@
 #create list of unique visit ids for each patient
+#count amount of unique visit ids for each patient
 
 def question6a(row, individual_dict, individual_visit_count_dict):
 	if row[0] not in individual_dict:
