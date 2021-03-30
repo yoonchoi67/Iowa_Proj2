@@ -1,5 +1,5 @@
 
-def sortEverything(med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_type_count_dict, individual_med_dict):
+def sortEverything(med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_type_count_dict, individual_med_dict, individual_visit_count_dict):
     """ Question 2 dictionaries sort """
     med_freq_dict = sorted(med_freq_dict.items(), key=lambda item: item[1], reverse=True)
     med_category_freq_dict = sorted(med_category_freq_dict.items(), key=lambda item: item[1], reverse=True)
@@ -22,4 +22,9 @@ def sortEverything(med_freq_dict, med_category_freq_dict, individual_med_type_di
         individual_med_dict[k]=len(v)
     individual_med_dict = sorted(individual_med_dict.items(), key=lambda item: item[1])
 
-    return [med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_type_count_dict, individual_med_dict]
+    """ Question 6 dictionaries sort """
+    individual_visit_count_dict = sorted(individual_visit_count_dict.items(), key=lambda item: item[1], reverse=True)
+
+    
+
+    return [med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_type_count_dict, individual_med_dict, individual_visit_count_dict]

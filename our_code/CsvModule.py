@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 from collections import defaultdict 
 
-def csvFunction(med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_type_count_dict, individual_med_dict):
+def csvFunction(med_freq_dict, med_category_freq_dict, individual_med_type_dict, individual_med_type_count_dict, individual_med_dict, individual_visit_count_dict):
     
     path = join(os.getcwd(), "../analysis_data2")
     if not os.path.exists(path):
@@ -51,3 +51,13 @@ def csvFunction(med_freq_dict, med_category_freq_dict, individual_med_type_dict,
             med_df.loc[len(med_df)] = [k, v]
         if not os.path.exists(join(path, 'individual_med_dict(q5).csv')):
             med_df.to_csv(join(path, 'individual_med_dict(q5).csv'), index=False)
+
+    """ Write to csv for question 6 """
+    column_names = ["patient_id", "num of visits"]
+    med_df = pd.DataFrame(columns=column_names)
+    if not os.path.exists(join(path, 'individual_visit_count_dict(q6).csv')):
+        individual_visit_count_dict = dict(individual_visit_count_dict)
+        for k, v in individual_visit_count_dict.items():
+            med_df.loc[len(med_df)] = [k, v]
+        if not os.path.exists(join(path, 'individual_visit_count_dict(q6).csv')):
+            med_df.to_csv(join(path, 'individual_visit_count_dict(q6).csv'), index=False)

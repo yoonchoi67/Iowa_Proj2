@@ -1,5 +1,5 @@
 import csv
-import xml_to_csv, Question2a, Question2b, Question3and4, Question5, SortModule, PrintModule, CsvModule
+import xml_to_csv, Question2a, Question2b, Question3and4, Question5, Question6a, SortModule, PrintModule, CsvModule
 
 """ Question 2a dictionary"""
 med_freq_dict = {}
@@ -10,6 +10,9 @@ individual_med_type_dict = {}
 individual_med_type_count_dict = {}
 """ Question 5 dictionaries"""
 individual_med_dict = {}
+""" Question 6 dictionaries"""
+individual_dict = {}
+individual_visit_count_dict = {}
 
 def parseFunction():
     with open("medication.csv", newline="", encoding="utf-8") as f:
@@ -60,8 +63,8 @@ def parseFunction():
                 Question3and4.question3and4(row, individual_med_type_dict, individual_med_type_count_dict)
 
             """ Question 6 code """
-            # Call to Function here
-            
+            Question6a.question6a(row, individual_dict, individual_visit_count_dict)
+
 def main():
     """ change xml to csv if medication.csv doesn't exist """
     # xml_to_csv
@@ -76,15 +79,16 @@ def main():
         med_category_freq_dict,
         individual_med_type_dict, 
         individual_med_type_count_dict, 
-        individual_med_dict
+        individual_med_dict,
+        individual_visit_count_dict
         )
 
     """ print the answers from sortFunction() """
     # a[0] = med_freq_dict, a[1] = med_category_freq_dict, a[2] = individual_med_type_dict, answers[3] = individual_med_type_count_dict, a[4] = individual_med_dict
-    PrintModule.printFunction(answers[0], answers[1], answers[2], answers[3], answers[4])
+    PrintModule.printFunction(answers[0], answers[1], answers[2], answers[3], answers[4], answers[5])
 
     """ store the answers to csv """
-    CsvModule.csvFunction(answers[0], answers[1], answers[2], answers[3], answers[4])
+    CsvModule.csvFunction(answers[0], answers[1], answers[2], answers[3], answers[4], answers[5])
 
 if __name__ == "__main__":
     main() 
